@@ -1,0 +1,452 @@
+[
+  {
+    "id": 1,
+    "title": "204 Industrial Ct\nWylie, TX 75098",
+    "statusDate": "06/07/2025",
+    "price": "$690,000",
+    "agentName": "Hector Pimentel",
+    "agentPhone": "469-580-2370",
+    "agentEmail": "hector@dfwhomefinders.net"
+  },
+  {
+    "id": 2,
+    "title": "223 McKinney St\nFarmersville, TX 75442",
+    "statusDate": "06/05/2025",
+    "price": "$650",
+    "agentName": "Randal Shinn",
+    "agentPhone": "469-222-1537",
+    "agentEmail": "shinnteam@shinnteam.com"
+  },
+  {
+    "id": 3,
+    "title": "6080 Water St\nPlano, TX 75024",
+    "statusDate": "06/05/2025",
+    "price": "$1,845",
+    "agentName": "Melissa Mettry",
+    "agentPhone": "706-402-4255",
+    "agentEmail": "melissa@simosonrealestate.com"
+  },
+  {
+    "id": 4,
+    "title": "8751 Collin McKinney Pkwy #903\nMcKinney, TX 75070",
+    "statusDate": "06/04/2025",
+    "price": "$2,750",
+    "agentName": "Jacy Pitt",
+    "agentPhone": "972-523-6029",
+    "agentEmail": "jacy@pitt-realty.com"
+  },
+  {
+    "id": 5,
+    "title": "910 18th St\nPlano, TX 75074",
+    "statusDate": "06/02/2025",
+    "price": "$1,875,000",
+    "agentName": "Leah Slaughter",
+    "agentPhone": "972-480-8280",
+    "agentEmail": "ceo@OmniKeyTexas.com"
+  },
+  {
+    "id": 6,
+    "title": "8668 John Hickman Pkwy #804\nFrisco, TX 75034",
+    "statusDate": "05/24/2025",
+    "price": "$2,950",
+    "agentName": "Lisa Rogers",
+    "agentPhone": "214-558-7355",
+    "agentEmail": "lisa@rogersteamdfw.com"
+  },
+  {
+    "id": 7,
+    "title": "8751 Collin McKinney Pkwy #603\nMcKinney, TX 75070",
+    "statusDate": "05/22/2025",
+    "price": "$3,500",
+    "agentName": "Cecilia Hampton",
+    "agentPhone": "214-326-5903",
+    "agentEmail": "ceciliahampton@kw.com"
+  },
+  {
+    "id": 8,
+    "title": "3400 Eldorado Pkwy #4D3\nMcKinney, TX 75070",
+    "statusDate": "05/21/2025",
+    "price": "$3,693",
+    "agentName": "Cecilia Hampton",
+    "agentPhone": "214-326-5903",
+    "agentEmail": "ceciliahampton@kw.com"
+  },
+  {
+    "id": 9,
+    "title": "11583 Independence Pkwy #410\nFrisco, TX 75035",
+    "statusDate": "05/20/2025",
+    "price": "$348,000",
+    "agentName": "Amit Mahadar",
+    "agentPhone": "214-850-8813",
+    "agentEmail": "avmrealtytx@gmail.com"
+  },
+  {
+    "id": 10,
+    "title": "3170 S Ridge Rd #130\nMcKinney, TX 75070",
+    "statusDate": "05/06/2025",
+    "price": "$990,370",
+    "agentName": "Ramakrishna Yarakala",
+    "agentPhone": "901-258-3184",
+    "agentEmail": "rk.r2realty@gmail.com"
+  },
+  {
+    "id": 11,
+    "title": "1402 S Custer Rd #302\nMcKinney, TX 75072",
+    "statusDate": "04/24/2025",
+    "price": "$2,900",
+    "agentName": "Raza Siddiqi",
+    "agentPhone": "469-831-3275",
+    "agentEmail": "razasiddiqi1995@gmail.com"
+  },
+  {
+    "id": 12,
+    "title": "103 College St\nAnna, TX 75409",
+    "statusDate": "04/16/2025",
+    "price": "$275,000",
+    "agentName": "Kimberly Uselton",
+    "agentPhone": "469-525-7281",
+    "agentEmail": "kimuselton@KW.com"
+  },
+  {
+    "id": 13,
+    "title": "701 N Tennessee St\nMcKinney, TX 75069",
+    "statusDate": "04/16/2025",
+    "price": "$315,000",
+    "agentName": "Christine Hogan",
+    "agentPhone": "214-705-7827",
+    "agentEmail": "christinehogangroup@gmail.com"
+  },
+  {
+    "id": 14,
+    "title": "5820 Collin McKinney Pkwy #105\nMcKinney, TX 75070",
+    "statusDate": "04/15/2025",
+    "price": "$3,300",
+    "agentName": "Sasidhar Kaligotla",
+    "agentPhone": "214-430-2895",
+    "agentEmail": "shashi@zenappy.com"
+  },
+  {
+    "id": 15,
+    "title": "3128 Hudson Xing #F3\nMcKinney, TX 75070",
+    "statusDate": "04/09/2025",
+    "price": "$308,000",
+    "agentName": "Douglas Batts",
+    "agentPhone": "469-877-3684",
+    "agentEmail": "drbatts@gmail.com"
+  },
+  {
+    "id": 16,
+    "title": "3990 Lakeway Dr\nWylie, TX 75098",
+    "statusDate": "04/08/2025",
+    "price": "$2,587",
+    "agentName": "Tarique Malik",
+    "agentPhone": "469-774-3667",
+    "agentEmail": "tarique@tariquemalik.com"
+  },
+  {
+    "id": 17,
+    "title": "1890 K Ave #100\nPlano, TX 75074",
+    "statusDate": "03/29/2025",
+    "price": "$22",
+    "agentName": "Sarah Pierce",
+    "agentPhone": "940-703-8283",
+    "agentEmail": "sarahpierce@ebby.com"
+  },
+  {
+    "id": 18,
+    "title": "1400 N Coit Rd #902\nMcKinney, TX 75071",
+    "statusDate": "03/28/2025",
+    "price": "$3,400",
+    "agentName": "Sasidhar Kaligotla",
+    "agentPhone": "214-430-2895",
+    "agentEmail": "shashi@zenappy.com"
+  },
+  {
+    "id": 19,
+    "title": "6161 County Road 124\nMcKinney, TX 75071",
+    "statusDate": "03/26/2025",
+    "price": "$5,750,000",
+    "agentName": "Beau Brewer",
+    "agentPhone": "469-500-3626",
+    "agentEmail": "beaubrewer.realtor@gmail.com"
+  },
+  {
+    "id": 20,
+    "title": "317 W Princeton Dr\nPrinceton, TX 75407",
+    "statusDate": "03/25/2025",
+    "price": "$10,000",
+    "agentName": "Melissa Croll",
+    "agentPhone": "214-929-3388",
+    "agentEmail": "melissa@attleerealty.com"
+  },
+  {
+    "id": 21,
+    "title": "121 S Main St\nFarmersville, TX 75442",
+    "statusDate": "03/18/2025",
+    "price": "$5,500",
+    "agentName": "Randal Shinn",
+    "agentPhone": "469-222-1537",
+    "agentEmail": "shinnteam@shinnteam.com"
+  },
+  {
+    "id": 22,
+    "title": "811 Countryview Trl\nPrinceton, TX 75407",
+    "statusDate": "03/15/2025",
+    "price": "$3,200,000",
+    "agentName": "Trey LaQuey III",
+    "agentPhone": "469-734-3815",
+    "agentEmail": "Trey.LaQuey@remax.net"
+  },
+  {
+    "id": 23,
+    "title": "112 W Main St\nAllen, TX 75013",
+    "statusDate": "02/25/2025",
+    "price": "$1,299,999",
+    "agentName": "Rene Sanchez",
+    "agentPhone": "469-534-5527",
+    "agentEmail": "renesellshomes@yahoo.com"
+  },
+  {
+    "id": 24,
+    "title": "5850 Town and Country Blvd #301\nFrisco, TX 75034",
+    "statusDate": "02/20/2025",
+    "price": "$3,300",
+    "agentName": "Audra Stamp",
+    "agentPhone": "469-929-4084",
+    "agentEmail": "audra.stamp@cbrealty.com"
+  },
+  {
+    "id": 25,
+    "title": "170 N Preston Rd\nProsper, TX 75078",
+    "statusDate": "02/18/2025",
+    "price": "$31",
+    "agentName": "Sasidhar Kaligotla",
+    "agentPhone": "214-430-2895",
+    "agentEmail": "shashi@zenappy.com"
+  },
+  {
+    "id": 26,
+    "title": "2077 State Highway 78 N\nFarmersville, TX 75442",
+    "statusDate": "02/06/2025",
+    "price": "$1,700,000",
+    "agentName": "Cristina Coles",
+    "agentPhone": "214-460-2849",
+    "agentEmail": "cristie.coles@cbdfw.com"
+  },
+  {
+    "id": 27,
+    "title": "7043 Elm St\nFrisco, TX 75034",
+    "statusDate": "02/04/2025",
+    "price": "$3,330",
+    "agentName": "Nikki Boland",
+    "agentPhone": "972-978-7868",
+    "agentEmail": "nchulamanis@aol.com"
+  },
+  {
+    "id": 28,
+    "title": "4400 Preston Rd\nFrisco, TX 75034",
+    "statusDate": "01/30/2025",
+    "price": "$21,000",
+    "agentName": "Mike Jones",
+    "agentPhone": "800-883-2571",
+    "agentEmail": "michael@franchisereg.com"
+  },
+  {
+    "id": 29,
+    "title": "110 S Preston Rd #B2\nProsper, TX 75078",
+    "statusDate": "01/20/2025",
+    "price": "$2,650",
+    "agentName": "Rebecca Cucovatz",
+    "agentPhone": "469-446-4177",
+    "agentEmail": "rebecca@1plusrealty.com"
+  },
+  {
+    "id": 30,
+    "title": "5711 Sam Rayburn Hwy\nAnna, TX 75409",
+    "statusDate": "01/02/2025",
+    "price": "$14,000,000",
+    "agentName": "Bill Cox",
+    "agentPhone": "972-562-8003",
+    "agentEmail": "bcox@careycoxcompany.com"
+  },
+  {
+    "id": 31,
+    "title": "107 S Main St\nFarmersville, TX 75442",
+    "statusDate": "11/23/2024",
+    "price": "$600,000",
+    "agentName": "Randal Shinn",
+    "agentPhone": "469-222-1537",
+    "agentEmail": "shinnteam@shinnteam.com"
+  },
+  {
+    "id": 32,
+    "title": "6305 Preston Rd #1000\nPlano, TX 75024",
+    "statusDate": "10/27/2024",
+    "price": "$349,900",
+    "agentName": "Karen Mack",
+    "agentPhone": "N/A",
+    "agentEmail": "karenmack@judgefite.com"
+  },
+  {
+    "id": 33,
+    "title": "1259 N Alma Dr\nAllen, TX 75013",
+    "statusDate": "08/16/2024",
+    "price": "$6,500",
+    "agentName": "Abbas Mortezaie-Asl",
+    "agentPhone": "N/A",
+    "agentEmail": "abbas@atxrealtyteam.com"
+  },
+  {
+    "id": 34,
+    "title": "4116 W Spring Creek Pkwy #C100\nPlano, TX 75024",
+    "statusDate": "08/01/2024",
+    "price": "$1,300,000",
+    "agentName": "Cynthia Li",
+    "agentPhone": "N/A",
+    "agentEmail": "cynthiali@clsquareteam.com"
+  },
+  {
+    "id": 35,
+    "title": "1400 N Coit Rd #2403\nMcKinney, TX 75071",
+    "statusDate": "06/14/2024",
+    "price": "$3,200",
+    "agentName": "sasidhar Kaligotla",
+    "agentPhone": "N/A",
+    "agentEmail": "shashi@zenappy.com"
+  },
+  {
+    "id": 36,
+    "title": "5172 Village Creek Dr #102\nPlano, TX 75093",
+    "statusDate": "05/02/2024",
+    "price": "$1,100,000",
+    "agentName": "N/A",
+    "agentPhone": "N/A",
+    "agentEmail": "karenmack@judgefite.com"
+  },
+  {
+    "id": 37,
+    "title": "3000 14th St\nPlano, TX 75074",
+    "statusDate": "03/13/2024",
+    "price": "$1,400,000",
+    "agentName": "N/A",
+    "agentPhone": "N/A",
+    "agentEmail": "theydari@anaresidential.com"
+  },
+  {
+    "id": 38,
+    "title": "870 N Preston Rd\nCelina, TX 75009",
+    "statusDate": "02/25/2024",
+    "price": "$7,000,000",
+    "agentName": "N/A",
+    "agentPhone": "N/A",
+    "agentEmail": "wayne.myers@KWFirstTeam.com"
+  },
+  {
+    "id": 39,
+    "title": "9555 Lebanon Rd #702\nFrisco, TX 75035",
+    "statusDate": "02/11/2024",
+    "price": "$2,500",
+    "agentName": "Cary Wang",
+    "agentPhone": "972-454-0335",
+    "agentEmail": "cary.wang.realtor@gmail.com"
+  },
+  {
+    "id": 40,
+    "title": "7504 Sam Rayburn Hwy\nAnna, TX 75409",
+    "statusDate": "01/21/2024",
+    "price": "$825,000",
+    "agentName": "N/A",
+    "agentPhone": "N/A",
+    "agentEmail": "ople.medders@gmail.com"
+  },
+  {
+    "id": 41,
+    "title": "18 Decker Ct\nWylie, TX 75098",
+    "statusDate": "11/11/2023",
+    "price": "$1,200,000",
+    "agentName": "N/A",
+    "agentPhone": "N/A",
+    "agentEmail": "stevenremy@astrarealty.com"
+  },
+  {
+    "id": 42,
+    "title": "3675 Orr Rd\nAllen, TX 75002",
+    "statusDate": "09/23/2023",
+    "price": "$1,950,000",
+    "agentName": "N/A",
+    "agentPhone": "N/A",
+    "agentEmail": "dolores.king@sbcglobal.net"
+  },
+  {
+    "id": 43,
+    "title": "132 McKinney St\nFarmersville, TX 75442",
+    "statusDate": "09/22/2023",
+    "price": "$695,000",
+    "agentName": "N/A",
+    "agentPhone": "N/A",
+    "agentEmail": "estanford@anabrokers.com"
+  },
+  {
+    "id": 44,
+    "title": "Title Not Found",
+    "statusDate": "08/23/2023",
+    "price": "$12,546,167",
+    "agentName": "N/A",
+    "agentPhone": "N/A",
+    "agentEmail": "andy@theanandteam.com"
+  },
+  {
+    "id": 45,
+    "title": "3565 FM 1461\nMcKinney, TX 75071",
+    "statusDate": "03/01/2023",
+    "price": "$5,000,000",
+    "agentName": "N/A",
+    "agentPhone": "N/A",
+    "agentEmail": "texastodd@designerrealty.com"
+  },
+  {
+    "id": 46,
+    "title": "201 Cunningham Blvd\nAnna, TX 75409",
+    "statusDate": "10/29/2022",
+    "price": "$1,950,000",
+    "agentName": "N/A",
+    "agentPhone": "N/A",
+    "agentEmail": "jamestglynn@gmail.com"
+  },
+  {
+    "id": 47,
+    "title": "3120 Hudson Xing #B1\nMcKinney, TX 75070",
+    "statusDate": "10/03/2022",
+    "price": "$20",
+    "agentName": "Neal Agrawal",
+    "agentPhone": "972-804-0742",
+    "agentEmail": "dfwneal@gmail.com"
+  },
+  {
+    "id": 48,
+    "title": "202 Maple St\nFarmersville, TX 75442",
+    "statusDate": "09/27/2022",
+    "price": "$375,000",
+    "agentName": "N/A",
+    "agentPhone": "N/A",
+    "agentEmail": "shinnteam@shinnteam.com"
+  },
+  {
+    "id": 49,
+    "title": "5208 Village Creek Dr #C\nPlano, TX 75093",
+    "statusDate": "07/31/2022",
+    "price": "$905,000",
+    "agentName": "Jon Callaway",
+    "agentPhone": "N/A",
+    "agentEmail": "N/A"
+  },
+  {
+    "id": 50,
+    "title": "1207 N Tennessee St\nMcKinney, TX 75069",
+    "statusDate": "10/25/2017",
+    "price": "$200,000",
+    "agentName": "Miranda Pereyda",
+    "agentPhone": "N/A",
+    "agentEmail": "mirandapereyda@judgefite.com"
+  }
+]
