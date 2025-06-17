@@ -48,6 +48,7 @@ const fs = require('fs');
     await safeClick('text=Filter');
     await safeClick('text=Saved Searches');
     await safeClick('h4:has-text("Collin Tired Landlords")');
+    //await safeClick('h4:has-text("Denton Bank Owned Equity 100 Listed Below Market")');
     await safeClick('button:has-text("View Properties")');
 
     // 3. Get all property links
@@ -115,7 +116,7 @@ const fs = require('fs');
         results.push(propertyResult);
         
         // Wait before next property
-        await page.waitForTimeout(1500);
+        await page.waitForTimeout(500);
       }
     }
 

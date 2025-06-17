@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "parameters": {
+        "url": "http://localhost:3000/properties",
+        "responseFormat": "json",
+        "options": {}
+      },
+      "id": "http_request_1",
+      "name": "Fetch Property JSON",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 1,
+      "position": [250, 300]
+    },
+    {
+      "parameters": {
+        "functionCode": "return items[0].json.map((item, index) => {\n  return { json: item };\n});"
+      },
+      "id": "function_1",
+      "name": "Flatten Items",
+      "type": "n8n-nodes-base.function",
+      "typeVersion": 1,
+      "position": [450, 300]
+    },
+    {
+      "parameters": {
+        "authentication": "oAuth2",
+        "sheetId": "<REPLACE_WITH_YOUR_SHEET_ID>",
+        "range": "props stream!A1",
+        "options": {
+          "valueInputMode": "USER_ENTERED"
+        }
+      },
+      "id": "google_sheets_1",
+      "name": "Write to Google Sheets",
+      "type": "n8n-nodes-base.googleSheets",
+      "typeVersion": 4,
+      "position": [650, 300],
+      "credentials": {
+        "googleSheetsOAuth2Api": {
+          "id": "<YOUR_CREDENTIAL_ID>",
+          "name": "Google Sheets OAuth2"
+        }
+      }
+    }
+  ],
+  "connections": {
+    "Fetch Property JSON": {
+      "main": [
+        [
+          {
+            "node": "Flatten Items",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Flatten Items": {
+      "main": [
+        [
+          {
+            "node": "Write to Google Sheets",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  }
+}

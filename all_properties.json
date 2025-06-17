@@ -1,0 +1,562 @@
+[
+  {
+    "id": 1,
+    "searchName": "Denton Bank Owned Equity 100 Listed Below Market",
+    "title": "2720 Dickinson Dr\nDenton, TX 76210",
+    "statusDate": "06/11/2025",
+    "price": "$529,000",
+    "agentName": "Frank Parli",
+    "agentPhone": "214-315-7500",
+    "agentEmail": "newhomesbyfrank@gmail.com"
+  },
+  {
+    "id": 2,
+    "searchName": "Denton Bank Owned Equity 100 Listed Below Market",
+    "title": "9704 Pinewood Dr\nDenton, TX 76207",
+    "statusDate": "06/10/2025",
+    "price": "$350,000",
+    "agentName": "Reggie McMullin",
+    "agentPhone": "(817) 329-8850",
+    "agentEmail": "Reggie@dfwbankhomes.com"
+  },
+  {
+    "id": 3,
+    "searchName": "Denton Bank Owned Equity 100 Listed Below Market",
+    "title": "MANGO DR, TX",
+    "statusDate": "06/10/2025",
+    "price": "$3,430",
+    "agentName": "Karan Shridharani",
+    "agentPhone": "603-689-8210",
+    "agentEmail": "karan.shridharani@gmail.com"
+  },
+  {
+    "id": 4,
+    "searchName": "Denton Bank Owned Equity 100 Listed Below Market",
+    "title": "MANGO DR, TX",
+    "statusDate": "06/09/2025",
+    "price": "$469,990",
+    "agentName": "Karan Shridharani",
+    "agentPhone": "603-689-8210",
+    "agentEmail": "karan.shridharani@gmail.com"
+  },
+  {
+    "id": 5,
+    "searchName": "Denton Bank Owned Equity 100 Listed Below Market",
+    "title": "3513 San Lucas Ln\nDenton, TX 76208",
+    "statusDate": "06/07/2025",
+    "price": "$362,000",
+    "agentName": "Jing Li",
+    "agentPhone": "408-858-0569",
+    "agentEmail": "jinglirealtor@gmail.com"
+  },
+  {
+    "id": 6,
+    "searchName": "Denton Bank Owned Equity 100 Listed Below Market",
+    "title": "10709 Klondike Ln\nAubrey, TX 76227",
+    "statusDate": "06/07/2025",
+    "price": "$335,000",
+    "agentName": "MACE RENFRO",
+    "agentPhone": "940-383-2712",
+    "agentEmail": "macerenfro@yahoo.com"
+  },
+  {
+    "id": 7,
+    "searchName": "Denton Bank Owned Equity 100 Listed Below Market",
+    "title": "137 W 6th St\nKrum, TX 76249",
+    "statusDate": "06/06/2025",
+    "price": "$259,900",
+    "agentName": "Steven Robertson",
+    "agentPhone": "469-946-8826",
+    "agentEmail": "srobertson004@gmail.com"
+  },
+  {
+    "id": 8,
+    "searchName": "Denton Bank Owned Equity 100 Listed Below Market",
+    "title": "2425 Canongate Dr\nDenton, TX 76207",
+    "statusDate": "06/05/2025",
+    "price": "$269,990",
+    "agentName": "Rachel Cameron",
+    "agentPhone": "214-687-2790",
+    "agentEmail": "rachelcameronagent@gmail.com"
+  },
+  {
+    "id": 9,
+    "searchName": "Denton Bank Owned Equity 100 Listed Below Market",
+    "title": "3212 Buckskin Trl\nAubrey, TX 76227",
+    "statusDate": "06/05/2025",
+    "price": "$299,900",
+    "agentName": "Debbie Darwin",
+    "agentPhone": "682-667-1500",
+    "agentEmail": "bluebonnetdfw@gmail.com"
+  },
+  {
+    "id": 10,
+    "searchName": "Denton Bank Owned Equity 100 Listed Below Market",
+    "title": "1816 Coronet Ave\nAubrey, TX 76227",
+    "statusDate": "06/04/2025",
+    "price": "$334,900",
+    "agentName": "Debbie Darwin",
+    "agentPhone": "682-667-1500",
+    "agentEmail": "bluebonnetdfw@gmail.com"
+  },
+  {
+    "id": 11,
+    "searchName": "Denton Bank Owned Equity 100 Listed Below Market",
+    "title": "5105 Hedgerow Dr\nAubrey, TX 76227",
+    "statusDate": "06/03/2025",
+    "price": "$595,000",
+    "agentName": "MACE RENFRO",
+    "agentPhone": "940-383-2712",
+    "agentEmail": "macerenfro@yahoo.com"
+  },
+  {
+    "id": 12,
+    "searchName": "Denton Bank Owned Equity 100 Listed Below Market",
+    "title": "4905 Shadetree St\nAubrey, TX 76227",
+    "statusDate": "05/28/2025",
+    "price": "$225,000",
+    "agentName": "Kevin Hamblin",
+    "agentPhone": "N/A",
+    "agentEmail": "N/A"
+  },
+  {
+    "id": 13,
+    "searchName": "Denton Bank Owned Equity 100 Listed Below Market",
+    "title": "1207 Goldeneye\nAubrey, TX 76227",
+    "statusDate": "05/24/2025",
+    "price": "$314,000",
+    "agentName": "Kevin Riney",
+    "agentPhone": "(903) 361-2733",
+    "agentEmail": "netxrealtysales@gmail.com"
+  },
+  {
+    "id": 14,
+    "searchName": "Denton Bank Owned Equity 100 Listed Below Market",
+    "title": "2213 Stella Ln\nJustin, TX 76247",
+    "statusDate": "05/16/2025",
+    "price": "$440,000",
+    "agentName": "Mace Renfro",
+    "agentPhone": "(940) 391-2286",
+    "agentEmail": "macerenfro@yahoo.com"
+  },
+  {
+    "id": 15,
+    "searchName": "Denton Bank Owned Equity 100 Listed Below Market",
+    "title": "4531 Ballymena Dr\nFrisco, TX 75034",
+    "statusDate": "05/16/2025",
+    "price": "$3,300",
+    "agentName": "Kelsey Green",
+    "agentPhone": "956-874-8924",
+    "agentEmail": "kelsey@rogershealy.com"
+  },
+  {
+    "id": 16,
+    "searchName": "Denton Bank Owned Equity 100 Listed Below Market",
+    "title": "3616 Ashley Gdns\nThe Colony, TX 75056",
+    "statusDate": "05/15/2025",
+    "price": "$275,000",
+    "agentName": "Kevin Hamblin",
+    "agentPhone": "N/A",
+    "agentEmail": "N/A"
+  },
+  {
+    "id": 17,
+    "searchName": "Denton Bank Owned Equity 100 Listed Below Market",
+    "title": "1801 Berry Ridge Trl\nAubrey, TX 76227",
+    "statusDate": "05/02/2025",
+    "price": "$324,900",
+    "agentName": "Debbie Darwin",
+    "agentPhone": "682-667-1500",
+    "agentEmail": "bluebonnetdfw@gmail.com"
+  },
+  {
+    "id": 18,
+    "searchName": "Denton Bank Owned Equity 100 Listed Below Market",
+    "title": "110 Pebble Beach Dr\nRoanoke, TX 76262",
+    "statusDate": "06/02/2024",
+    "price": "$725,000",
+    "agentName": "N/A",
+    "agentPhone": "N/A",
+    "agentEmail": "Lily@lilymoorerealty.com"
+  },
+  {
+    "id": 19,
+    "searchName": "Denton Bank Owned Equity 100 Listed Below Market",
+    "title": "3916 Granbury Dr\nDallas, TX 75287",
+    "statusDate": "06/02/2024",
+    "price": "$545,000",
+    "agentName": "N/A",
+    "agentPhone": "N/A",
+    "agentEmail": "shannon@bestlifenetwork.com"
+  },
+  {
+    "id": 20,
+    "searchName": "Denton Bank Owned Equity 100 Listed Below Market",
+    "title": "810 Prairie View Ct\nArgyle, TX 76226",
+    "statusDate": "05/02/2024",
+    "price": "$1,969,000",
+    "agentName": "N/A",
+    "agentPhone": "N/A",
+    "agentEmail": "HeleneAshlock@MagnoliaRealty.com"
+  },
+  {
+    "id": 21,
+    "searchName": "Denton Bank Owned Equity 100 Listed Below Market",
+    "title": "15612 Carlton Oaks Dr\nFort Worth, TX 76177",
+    "statusDate": "03/30/2024",
+    "price": "$405,000",
+    "agentName": "N/A",
+    "agentPhone": "N/A",
+    "agentEmail": "melanie@dewbrewrealty.com"
+  },
+  {
+    "id": 22,
+    "searchName": "Denton Bank Owned Equity 100 Listed Below Market",
+    "title": "2728 Foxcroft Cir\nDenton, TX 76209",
+    "statusDate": "03/13/2024",
+    "price": "$309,000",
+    "agentName": "N/A",
+    "agentPhone": "N/A",
+    "agentEmail": "missyjohnsonrealtygroup@gmail.com"
+  },
+  {
+    "id": 23,
+    "searchName": "Denton Bank Owned Equity 100 Listed Below Market",
+    "title": "4729 Ash St\nFlower Mound, TX 75028",
+    "statusDate": "12/29/2023",
+    "price": "$199,999",
+    "agentName": "N/A",
+    "agentPhone": "N/A",
+    "agentEmail": "buynsellwitharielle@gmail.com"
+  },
+  {
+    "id": 24,
+    "searchName": "Denton tired landlords commercial 5/5/25",
+    "title": "700 W OAK ST\nDENTON, TX 76201",
+    "statusDate": "05/27/2025",
+    "price": "$1,400",
+    "agentName": "Julie Parsons",
+    "agentPhone": "817-859-6429",
+    "agentEmail": "julie@jluxhomes.com"
+  },
+  {
+    "id": 25,
+    "searchName": "Denton tired landlords commercial 5/5/25",
+    "title": "1801 N Elm St\nDenton, TX 76201",
+    "statusDate": "05/15/2025",
+    "price": "$549,000",
+    "agentName": "Steven Scribner",
+    "agentPhone": "(940) 390-2832",
+    "agentEmail": "steve.w.scribner@gmail.com"
+  },
+  {
+    "id": 26,
+    "searchName": "Denton tired landlords commercial 5/5/25",
+    "title": "1728 Scripture St\nDenton, TX 76201",
+    "statusDate": "05/13/2025",
+    "price": "$375,000",
+    "agentName": "Taylor Robertson",
+    "agentPhone": "940-453-6314",
+    "agentEmail": "robertsontm12@gmail.com"
+  },
+  {
+    "id": 27,
+    "searchName": "Denton tired landlords commercial 5/5/25",
+    "title": "311 S Locust St\nDenton, TX 76201",
+    "statusDate": "05/07/2025",
+    "price": "$1,550",
+    "agentName": "Marla Carrico",
+    "agentPhone": "940-387-6800",
+    "agentEmail": "marla@carricoandassociatesrealtors.com"
+  },
+  {
+    "id": 28,
+    "searchName": "Denton tired landlords commercial 5/5/25",
+    "title": "2229 N Carroll Blvd\nDenton, TX 76201",
+    "statusDate": "04/22/2025",
+    "price": "$3,500,000",
+    "agentName": "MARIELLA CUDD",
+    "agentPhone": "940-595-5540",
+    "agentEmail": "mariella@cuddrealty.com"
+  },
+  {
+    "id": 29,
+    "searchName": "Denton tired landlords commercial 5/5/25",
+    "title": "204 E Prairie St\nDenton, TX 76201",
+    "statusDate": "04/22/2025",
+    "price": "$2,600",
+    "agentName": "Marla Carrico",
+    "agentPhone": "(940) 387-6800",
+    "agentEmail": "marla@carricoandassociatesrealtors.com"
+  },
+  {
+    "id": 30,
+    "searchName": "Denton tired landlords commercial 5/5/25",
+    "title": "525 S Locust St\nDenton, TX 76201",
+    "statusDate": "03/19/2024",
+    "price": "$3,500,000",
+    "agentName": "N/A",
+    "agentPhone": "N/A",
+    "agentEmail": "ayoung@realtteam.com"
+  },
+  {
+    "id": 31,
+    "searchName": "Denton tired landlords commercial 5/5/25",
+    "title": "230 N Mayhill Rd\nDenton, TX 76208",
+    "statusDate": "10/13/2023",
+    "price": "$298,000",
+    "agentName": "Michael Hershenberg",
+    "agentPhone": "817-657-2470",
+    "agentEmail": "michael@hgrouptx.com"
+  },
+  {
+    "id": 32,
+    "searchName": "Denton tired landlords commercial 5/5/25",
+    "title": "6277 S Interstate 35 E\nDenton, TX 76210",
+    "statusDate": "05/23/2023",
+    "price": "$8,500,000",
+    "agentName": "N/A",
+    "agentPhone": "N/A",
+    "agentEmail": "mdtanvir1978@gmail.com"
+  },
+  {
+    "id": 33,
+    "searchName": "Denton tired landlords commercial 5/5/25",
+    "title": "1820 Marshall Rd\nDenton, TX 76207",
+    "statusDate": "07/23/2022",
+    "price": "$4,268,880",
+    "agentName": "James Terrell",
+    "agentPhone": "N/A",
+    "agentEmail": "N/A"
+  },
+  {
+    "id": 34,
+    "searchName": "Denton Bank Owned",
+    "title": "2720 Dickinson Dr\nDenton, TX 76210",
+    "statusDate": "06/11/2025",
+    "price": "$529,000",
+    "agentName": "Frank Parli",
+    "agentPhone": "214-315-7500",
+    "agentEmail": "newhomesbyfrank@gmail.com"
+  },
+  {
+    "id": 35,
+    "searchName": "Denton Bank Owned",
+    "title": "9704 Pinewood Dr\nDenton, TX 76207",
+    "statusDate": "06/10/2025",
+    "price": "$350,000",
+    "agentName": "Reggie McMullin",
+    "agentPhone": "(817) 329-8850",
+    "agentEmail": "Reggie@dfwbankhomes.com"
+  },
+  {
+    "id": 36,
+    "searchName": "Denton Bank Owned",
+    "title": "MANGO DR, TX",
+    "statusDate": "06/10/2025",
+    "price": "$3,430",
+    "agentName": "Karan Shridharani",
+    "agentPhone": "603-689-8210",
+    "agentEmail": "karan.shridharani@gmail.com"
+  },
+  {
+    "id": 37,
+    "searchName": "Denton Bank Owned",
+    "title": "MANGO DR, TX",
+    "statusDate": "06/09/2025",
+    "price": "$469,990",
+    "agentName": "Karan Shridharani",
+    "agentPhone": "603-689-8210",
+    "agentEmail": "karan.shridharani@gmail.com"
+  },
+  {
+    "id": 38,
+    "searchName": "Denton Bank Owned",
+    "title": "3513 San Lucas Ln\nDenton, TX 76208",
+    "statusDate": "06/07/2025",
+    "price": "$362,000",
+    "agentName": "Jing Li",
+    "agentPhone": "408-858-0569",
+    "agentEmail": "jinglirealtor@gmail.com"
+  },
+  {
+    "id": 39,
+    "searchName": "Denton Bank Owned",
+    "title": "10709 Klondike Ln\nAubrey, TX 76227",
+    "statusDate": "06/07/2025",
+    "price": "$335,000",
+    "agentName": "MACE RENFRO",
+    "agentPhone": "940-383-2712",
+    "agentEmail": "macerenfro@yahoo.com"
+  },
+  {
+    "id": 40,
+    "searchName": "Denton Bank Owned",
+    "title": "137 W 6th St\nKrum, TX 76249",
+    "statusDate": "06/06/2025",
+    "price": "$259,900",
+    "agentName": "Steven Robertson",
+    "agentPhone": "469-946-8826",
+    "agentEmail": "srobertson004@gmail.com"
+  },
+  {
+    "id": 41,
+    "searchName": "Denton Bank Owned",
+    "title": "2425 Canongate Dr\nDenton, TX 76207",
+    "statusDate": "06/05/2025",
+    "price": "$269,990",
+    "agentName": "Rachel Cameron",
+    "agentPhone": "214-687-2790",
+    "agentEmail": "rachelcameronagent@gmail.com"
+  },
+  {
+    "id": 42,
+    "searchName": "Denton Bank Owned",
+    "title": "3212 Buckskin Trl\nAubrey, TX 76227",
+    "statusDate": "06/05/2025",
+    "price": "$299,900",
+    "agentName": "Debbie Darwin",
+    "agentPhone": "682-667-1500",
+    "agentEmail": "bluebonnetdfw@gmail.com"
+  },
+  {
+    "id": 43,
+    "searchName": "Denton Bank Owned",
+    "title": "1816 Coronet Ave\nAubrey, TX 76227",
+    "statusDate": "06/04/2025",
+    "price": "$334,900",
+    "agentName": "Debbie Darwin",
+    "agentPhone": "682-667-1500",
+    "agentEmail": "bluebonnetdfw@gmail.com"
+  },
+  {
+    "id": 44,
+    "searchName": "Denton Bank Owned",
+    "title": "5105 Hedgerow Dr\nAubrey, TX 76227",
+    "statusDate": "06/03/2025",
+    "price": "$595,000",
+    "agentName": "MACE RENFRO",
+    "agentPhone": "940-383-2712",
+    "agentEmail": "macerenfro@yahoo.com"
+  },
+  {
+    "id": 45,
+    "searchName": "Denton Bank Owned",
+    "title": "4905 Shadetree St\nAubrey, TX 76227",
+    "statusDate": "05/28/2025",
+    "price": "$225,000",
+    "agentName": "Kevin Hamblin",
+    "agentPhone": "N/A",
+    "agentEmail": "N/A"
+  },
+  {
+    "id": 46,
+    "searchName": "Denton Bank Owned",
+    "title": "1207 Goldeneye\nAubrey, TX 76227",
+    "statusDate": "05/24/2025",
+    "price": "$314,000",
+    "agentName": "Kevin Riney",
+    "agentPhone": "(903) 361-2733",
+    "agentEmail": "netxrealtysales@gmail.com"
+  },
+  {
+    "id": 47,
+    "searchName": "Denton Bank Owned",
+    "title": "2213 Stella Ln\nJustin, TX 76247",
+    "statusDate": "05/16/2025",
+    "price": "$440,000",
+    "agentName": "Mace Renfro",
+    "agentPhone": "(940) 391-2286",
+    "agentEmail": "macerenfro@yahoo.com"
+  },
+  {
+    "id": 48,
+    "searchName": "Denton Bank Owned",
+    "title": "4531 Ballymena Dr\nFrisco, TX 75034",
+    "statusDate": "05/16/2025",
+    "price": "$3,300",
+    "agentName": "Kelsey Green",
+    "agentPhone": "956-874-8924",
+    "agentEmail": "kelsey@rogershealy.com"
+  },
+  {
+    "id": 49,
+    "searchName": "Denton Bank Owned",
+    "title": "3616 Ashley Gdns\nThe Colony, TX 75056",
+    "statusDate": "05/15/2025",
+    "price": "$275,000",
+    "agentName": "Kevin Hamblin",
+    "agentPhone": "N/A",
+    "agentEmail": "N/A"
+  },
+  {
+    "id": 50,
+    "searchName": "Denton Bank Owned",
+    "title": "1801 Berry Ridge Trl\nAubrey, TX 76227",
+    "statusDate": "05/02/2025",
+    "price": "$324,900",
+    "agentName": "Debbie Darwin",
+    "agentPhone": "682-667-1500",
+    "agentEmail": "bluebonnetdfw@gmail.com"
+  },
+  {
+    "id": 51,
+    "searchName": "Denton Bank Owned",
+    "title": "110 Pebble Beach Dr\nRoanoke, TX 76262",
+    "statusDate": "06/02/2024",
+    "price": "$725,000",
+    "agentName": "N/A",
+    "agentPhone": "N/A",
+    "agentEmail": "Lily@lilymoorerealty.com"
+  },
+  {
+    "id": 52,
+    "searchName": "Denton Bank Owned",
+    "title": "3916 Granbury Dr\nDallas, TX 75287",
+    "statusDate": "06/02/2024",
+    "price": "$545,000",
+    "agentName": "N/A",
+    "agentPhone": "N/A",
+    "agentEmail": "shannon@bestlifenetwork.com"
+  },
+  {
+    "id": 53,
+    "searchName": "Denton Bank Owned",
+    "title": "810 Prairie View Ct\nArgyle, TX 76226",
+    "statusDate": "05/02/2024",
+    "price": "$1,969,000",
+    "agentName": "N/A",
+    "agentPhone": "N/A",
+    "agentEmail": "HeleneAshlock@MagnoliaRealty.com"
+  },
+  {
+    "id": 54,
+    "searchName": "Denton Bank Owned",
+    "title": "15612 Carlton Oaks Dr\nFort Worth, TX 76177",
+    "statusDate": "03/30/2024",
+    "price": "$405,000",
+    "agentName": "N/A",
+    "agentPhone": "N/A",
+    "agentEmail": "melanie@dewbrewrealty.com"
+  },
+  {
+    "id": 55,
+    "searchName": "Denton Bank Owned",
+    "title": "2728 Foxcroft Cir\nDenton, TX 76209",
+    "statusDate": "03/13/2024",
+    "price": "$309,000",
+    "agentName": "N/A",
+    "agentPhone": "N/A",
+    "agentEmail": "missyjohnsonrealtygroup@gmail.com"
+  },
+  {
+    "id": 56,
+    "searchName": "Denton Bank Owned",
+    "title": "4729 Ash St\nFlower Mound, TX 75028",
+    "statusDate": "12/29/2023",
+    "price": "$199,999",
+    "agentName": "N/A",
+    "agentPhone": "N/A",
+    "agentEmail": "buynsellwitharielle@gmail.com"
+  }
+]
