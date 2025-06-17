@@ -72,14 +72,10 @@ const fs = require('fs');
     await page.click('button[type="submit"]');
     await page.waitForURL('**/search', { timeout: 60000 });
 
-    //await safeClick('text=Filter');
-
     for (const savedSearchName of savedSearchNames) {
-        
       console.log(`\n🔍 Starting search: ${savedSearchName}`);
 
       await safeClick('text=Filter');
-      // Always reopen the green Saved Searches pill
       await safeClick('div[class*="dropdownSaveSerchBtn"]');
       await safeClick(`h4:has-text("${savedSearchName}")`);
       await safeClick('button:has-text("View Properties")');
@@ -96,6 +92,8 @@ const fs = require('fs');
 
           await retryOperation(async () => {
             const elements = await page.$$('a.src-app-Search-Results-style__BKQRC__name');
+            const propertyHref = await elements[i].getAttribute('href');
+            propertyResult.link = `https://app.propstream.com${propertyHref}`;
             await elements[i].click();
           }, 3);
 
