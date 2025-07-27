@@ -25,7 +25,7 @@ const fs = require('fs');
     try {
       const labelSelector = `//div[contains(@class, 'src-components-GroupInfo-style__FpyDf__label')][contains(., '${label}')]`;
       await page.waitForSelector(`xpath=${labelSelector}`, { timeout: 4000 });
-      
+
       return await page.evaluate((label) => {
         const labels = Array.from(document.querySelectorAll('div.src-components-GroupInfo-style__FpyDf__label'));
         const labelEl = labels.find(el => el.textContent.includes(label));
@@ -49,23 +49,23 @@ const fs = require('fs');
     await safeClick('text=Saved Searches');
     await safeClick('h4:has-text("Collin Tired Landlords")');
     //await safeClick('h4:has-text("Denton Bank Owned Equity 100 Listed Below Market")');
-    await safeClick('button:has-text("View Properties")');
+    await page.click('button.src-app-Search-Header-searchFilterNew-SearchFilterNew__g7FK0__clsPropertiBtn');
 
     // 3. Get all property links
-    await page.waitForSelector('a.src-app-Search-Results-style__BKQRC__name', { timeout: 60000 });
-    const propertyLinks = await page.$$('a.src-app-Search-Results-style__BKQRC__name');
+    await page.waitForSelector('div.src-app-Search-Results-style__BKQRC__name', { timeout: 60000 });
+    const propertyLinks = await page.$$('div.src-app-Search-Results-style__BKQRC__name');
     const totalProperties = Math.min(propertyLinks.length, 50);
 
     // 4. Process each property
     for (let i = 0; i < totalProperties; i++) {
       let propertyResult = { id: i + 1 };
-      
+
       try {
-        console.log(`\nProcessing property ${i+1}/${totalProperties}`);
-        
+        console.log(`\nProcessing property ${i + 1}/${totalProperties}`);
+
         // Click property
         await retryOperation(async () => {
-          const elements = await page.$$('a.src-app-Search-Results-style__BKQRC__name');
+          const elements = await page.$$('div.src-app-Search-Results-style__BKQRC__name');
           await elements[i].click();
         }, 3);
 
@@ -76,45 +76,112 @@ const fs = require('fs');
         );
         console.log(`Title: ${propertyResult.title}`);
 
-        // Click MLS Details tab
-        await safeClick('text=MLS Details');
-        
-        // Wait for MLS data to load
-        await page.waitForFunction(() => {
-          const labels = Array.from(document.querySelectorAll('div[class*="label"]'));
-          const priceEl = labels.find(el => el.textContent.includes('Price'));
-          return priceEl?.nextElementSibling?.textContent?.trim();
-          }, { timeout: 8000 });
+        await page.waitForSelector('.src-app-Property-Detail-style__T4AFZ__propertyInfo');
 
+        const fieldsToExtract = [
+          'Year Built',
+          'SqFt',
+          'Lot Size',
+          'Property Type',
+          'Status',
+          'Distressed',
+          'Short Sale',
+          'HOA/COA',
+          'Owner Type',
+          'Owner Status',
+          'Occupancy',
+          'Length of Ownership',
+          'Purchase Method',
+          'County',
+          'Estimated Value'
+        ];
 
-        // Extract MLS data
+        const data = await page.evaluate((fields) => {
+          const result = {};
+          const items = document.querySelectorAll('.src-app-Property-Detail-style__C1aGN__item');
+
+          items.forEach(item => {
+            const labelDiv = item.querySelector('.src-app-Property-Detail-style__HzIi1__label');
+            const valueDiv = item.querySelector('.src-app-Property-Detail-style__ozT4e__value');
+
+            if (labelDiv) {
+              const label = labelDiv.textContent.trim();
+
+              if (fields.includes(label)) {
+                result[label] = valueDiv ? valueDiv.textContent.trim() : "N/A";
+              }
+            }
+          });
+
+          // Special fallback if Estimated Value is present as "N/A" alone
+          const allLabels = document.querySelectorAll('.src-app-Property-Detail-style__HzIi1__label');
+          allLabels.forEach(labelDiv => {
+            if (labelDiv.textContent.trim() === 'N/A' && !result['Estimated Value']) {
+              result['Estimated Value'] = 'N/A';
+            }
+          });
+
+          return result;
+        }, fieldsToExtract);
+
         propertyResult = {
           ...propertyResult,
-          statusDate: await getMLSValue('Status Date'),
-          price: await getMLSValue('Price'),
-          agentName: await getMLSValue('Agent Name'),
-          agentPhone: await getMLSValue('Agent Phone'),
-          agentEmail: await getMLSValue('Agent Email')
+          ...data,
         };
-        
-        console.log('MLS Data:', {
-          price: propertyResult.price,
-          agent: propertyResult.agentName,
-          agentPhone: propertyResult.agentPhone,
-          agentEmail: propertyResult.agentEmail,
-          listingDate: propertyResult.statusDate
-        });
+
+
+        // Gettting the linked properties for the listing
+        await page.getByRole('tab', { name: 'Linked Properties' }).locator('div').click();
+        console.log('Clicked Linked Properties tab');
+        await page.waitForSelector('div.ag-center-cols-container');
+        console.log('Got the Linked Properties table');
+        const addresses = await page.$$eval('div.ag-center-cols-container a[href^="/search/"]', links =>
+          links.map(link => link.innerText.trim())
+        );
+        propertyResult.linkedAddresses = addresses;
+        console.log(JSON.stringify(propertyResult, null, 2));
+
+
+
+        // Click MLS Details tab
+        // await safeClick('text=MLS Details');
+
+        // // Wait for MLS data to load
+        // await page.waitForFunction(() => {
+        //   const labels = Array.from(document.querySelectorAll('div[class*="label"]'));
+        //   const priceEl = labels.find(el => el.textContent.includes('Price'));
+        //   return priceEl?.nextElementSibling?.textContent?.trim();
+        //   }, { timeout: 8000 });
+
+
+        // // Extract MLS data
+        // propertyResult = {
+        //   ...propertyResult,
+        //   statusDate: await getMLSValue('Status Date'),
+        //   price: await getMLSValue('Price'),
+        //   agentName: await getMLSValue('Agent Name'),
+        //   agentPhone: await getMLSValue('Agent Phone'),
+        //   agentEmail: await getMLSValue('Agent Email')
+        // };
+
+        // console.log('MLS Data:', {
+        //   price: propertyResult.price,
+        //   agent: propertyResult.agentName,
+        //   agentPhone: propertyResult.agentPhone,
+        //   agentEmail: propertyResult.agentEmail,
+        //   listingDate: propertyResult.statusDate
+        // });
 
 
       } catch (error) {
-        console.error(`❌ Error processing property ${i+1}:`, error.message);
-        await page.screenshot({ path: `error_${i+1}.png` });
+        console.error(`❌ Error processing property ${i + 1}:`, error.message);
+        await page.screenshot({ path: `error_${i + 1}.png` });
         propertyResult.error = error.message;
       } finally {
         // Ensure popup is closed
         await tryClosePopup(page);
         results.push(propertyResult);
-        
+
         // Wait before next property
         await page.waitForTimeout(500);
       }
