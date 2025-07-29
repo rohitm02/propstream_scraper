@@ -36,6 +36,88 @@ const fs = require('fs');
     }
   };
 
+  async function getLinkedPropertyData(page) {
+    const linkedAddresses = await page.$$eval('div.ag-center-cols-container a[href^="/search/"]', links =>
+      links.map(link => ({
+        href: link.getAttribute('href'),
+        address: link.innerText.trim()
+      }))
+    );
+  
+    const linkedDetails = [];
+    const context = page.context();
+  
+    for (let i = 0; i < linkedAddresses.length; i++) {
+      const linkObj = linkedAddresses[i];
+  
+      try {
+        console.log(`Navigating to linked property: ${linkObj.address}`);
+  
+        const selector = `a[href="${linkObj.href}"]`;
+  
+        // Capture pages before clicking
+        const pagesBefore = context.pages();
+  
+        // Scroll to and click the link safely
+        const linkHandle = await page.$(selector);
+        if (!linkHandle) throw new Error(`Link not found: ${selector}`);
+        await linkHandle.scrollIntoViewIfNeeded();
+        await linkHandle.click({ force: true });
+  
+        // Wait for a new page to appear
+        let newPage = null;
+        for (let attempt = 0; attempt < 20; attempt++) {
+          const pagesAfter = context.pages();
+          newPage = pagesAfter.find(p => !pagesBefore.includes(p));
+          if (newPage) break;
+          await new Promise(res => setTimeout(res, 300));
+        }
+  
+        if (!newPage) {
+          throw new Error(`New tab did not open for property: ${linkObj.address}`);
+        }
+  
+        await newPage.waitForLoadState('domcontentloaded');
+        await newPage.waitForSelector('.src-app-Property-Detail-style__T4AFZ__propertyInfo', { timeout: 10000 });
+  
+        const fieldsToExtract = [
+          'Year Built', 'SqFt', 'Lot Size', 'Property Type', 'Status', 'Distressed',
+          'Short Sale', 'HOA/COA', 'Owner Type', 'Owner Status', 'Occupancy',
+          'Length of Ownership', 'Purchase Method', 'County', 'Estimated Value'
+        ];
+  
+        const data = await newPage.evaluate((fields) => {
+          const result = {};
+          const items = document.querySelectorAll('.src-app-Property-Detail-style__C1aGN__item');
+  
+          items.forEach(item => {
+            const labelDiv = item.querySelector('.src-app-Property-Detail-style__HzIi1__label');
+            const valueDiv = item.querySelector('.src-app-Property-Detail-style__ozT4e__value');
+            if (labelDiv && fields.includes(labelDiv.textContent.trim())) {
+              result[labelDiv.textContent.trim()] = valueDiv?.textContent.trim() || "N/A";
+            }
+          });
+  
+          return result;
+        }, fieldsToExtract);
+  
+        linkedDetails.push({
+          blueprint: `Blueprint ${i + 1}`,
+          address: linkObj.address,
+          ...data
+        });
+  
+        await newPage.close();
+  
+      } catch (err) {
+        console.error(`Error processing linked property ${linkObj.address}:`, err);
+      }
+    }
+  
+    return linkedDetails;
+  }
+  
+
   try {
     // 1. Login
     await page.goto('https://login.propstream.com/', { waitUntil: 'networkidle' });
@@ -132,16 +214,13 @@ const fs = require('fs');
 
         // Gettting the linked properties for the listing
         await page.getByRole('tab', { name: 'Linked Properties' }).locator('div').click();
-        console.log('Clicked Linked Properties tab');
+        console.log("completed the linked poperties click")
         await page.waitForSelector('div.ag-center-cols-container');
-        console.log('Got the Linked Properties table');
-        const addresses = await page.$$eval('div.ag-center-cols-container a[href^="/search/"]', links =>
-          links.map(link => link.innerText.trim())
-        );
-        propertyResult.linkedAddresses = addresses;
-        console.log(JSON.stringify(propertyResult, null, 2));
-
-
+        console.log("located the container")
+        const linkedPropertyData = await getLinkedPropertyData(page);
+        console.log(linkedPropertyData);
+        propertyResult.linkedProperties = linkedPropertyData;
+        
 
         // Click MLS Details tab
         // await safeClick('text=MLS Details');

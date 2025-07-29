@@ -1,0 +1,519 @@
+ID,Title,Blueprint,SqFt,Lot Size,Year Built,Property Type,Status,Distressed,Short Sale,HOA/COA,Owner Type,Owner Status,Occupancy,Length of Ownership,Purchase Method,County,Estimated Value
+1,"2077 State Highway 78 N
+Farmersville, TX 75442",Primary,"1,500","147,581",2010,Commercial (General),On Market,No,No,No,Trust,Non-Owner Occupied,Occupied,15 Years 4 Months,Cash,Collin,N/A
+1,"2077 State Highway 78 N
+Farmersville, TX 75442",Blueprint 1,"1,500","147,581",2010,Commercial (General),On Market,No,No,No,Trust,Non-Owner Occupied,Occupied,15 Years 4 Months,Cash,Collin,
+2,"6080 Water St
+Plano, TX 75024",Primary,702,"471,363",2019,Commercial Condominium (not offices),On Market,No,No,No,Corporate,Non-Owner Occupied,Occupied,,Financed,Collin,N/A
+2,"6080 Water St
+Plano, TX 75024",Blueprint 1,"3,607",2,2019,Condominium (Residential),On Market,No,No,No,Individual,Non-Owner Occupied,Occupied,9 Months,Cash,Collin,
+2,"6080 Water St
+Plano, TX 75024",Blueprint 2,"3,550",N/A,2005,Single Family Residential,Off Market,No,No,No,Individual,Non-Owner Occupied,Occupied,1 Year 2 Months,Cash,Collin,
+2,"6080 Water St
+Plano, TX 75024",Blueprint 3,"319,850","471,363",2015,Condominium (Residential),Off Market,No,No,No,Corporate,Non-Owner Occupied,Occupied,N/A,Financed,Collin,
+2,"6080 Water St
+Plano, TX 75024",Blueprint 4,702,"471,363",2019,Commercial Condominium (not offices),On Market,No,No,No,Corporate,Non-Owner Occupied,Occupied,N/A,Financed,Collin,
+2,"6080 Water St
+Plano, TX 75024",Blueprint 5,"337,320","471,363",2015,Condominium (Residential),Off Market,No,No,No,Corporate,Non-Owner Occupied,Occupied,N/A,Financed,Collin,
+2,"6080 Water St
+Plano, TX 75024",Blueprint 6,"37,213","471,363",2015,Commercial Condominium (not offices),Off Market,No,No,No,Corporate,Non-Owner Occupied,Occupied,N/A,Financed,Collin,
+3,"8668 John Hickman Pkwy #804
+Frisco, TX 75034",Primary,"1,150","239,798",2017,Commercial Condominium (not offices),On Market,No,No,No,Individual,Non-Owner Occupied,Occupied,,Financed,Collin,N/A
+3,"8668 John Hickman Pkwy #804
+Frisco, TX 75034",Blueprint 1,"5,166","22,932",2007,Single Family Residential,Off Market,No,No,No,Individual,Owner Occupied,Occupied,17 Years 10 Months,Financed,Denton,
+3,"8668 John Hickman Pkwy #804
+Frisco, TX 75034",Blueprint 2,987,174,1981,Condominium (Residential),Off Market,No,No,Yes,Individual,Non-Owner Occupied,Occupied,6 Years 9 Months,Cash,Denver,
+3,"8668 John Hickman Pkwy #804
+Frisco, TX 75034",Blueprint 3,"5,166","22,932",2007,Single Family Residential,Off Market,No,No,No,Individual,Owner Occupied,Occupied,17 Years 10 Months,Financed,Denton,
+3,"8668 John Hickman Pkwy #804
+Frisco, TX 75034",Blueprint 4,"1,135",2,2017,Condominium (Residential),Off Market,No,No,No,Individual,Non-Owner Occupied,Occupied,N/A,Financed,Denton,
+3,"8668 John Hickman Pkwy #804
+Frisco, TX 75034",Blueprint 5,"2,752","1,992,082",1968,Mobile home,Off Market,No,No,No,Corporate,Non-Owner Occupied,Occupied,10 Years 4 Months,Financed,Collin,
+3,"8668 John Hickman Pkwy #804
+Frisco, TX 75034",Blueprint 6,"2,871",N/A,2000,Single Family Residential,Off Market,No,No,No,Individual,Non-Owner Occupied,Occupied,24 Years 11 Months,Financed,Denton,
+3,"8668 John Hickman Pkwy #804
+Frisco, TX 75034",Blueprint 7,"1,199",1,2011,Condominium Offices,On Market,No,No,No,Corporate,Non-Owner Occupied,Occupied,N/A,Financed,Denton,
+3,"8668 John Hickman Pkwy #804
+Frisco, TX 75034",Blueprint 8,"1,199","118,187",2014,Condominium Offices,Off Market,No,No,No,Corporate,Non-Owner Occupied,Occupied,N/A,Financed,Denton,
+3,"8668 John Hickman Pkwy #804
+Frisco, TX 75034",Blueprint 9,"1,167","167,706",2004,Commercial Condominium (not offices),Off Market,No,No,No,Corporate,Non-Owner Occupied,Occupied,5 Years 9 Months,Cash,Collin,
+3,"8668 John Hickman Pkwy #804
+Frisco, TX 75034",Blueprint 10,"1,200","64,948",2009,Commercial Condominium (not offices),Off Market,No,No,No,Corporate,Non-Owner Occupied,Occupied,11 Years 9 Months,Cash,Collin,
+3,"8668 John Hickman Pkwy #804
+Frisco, TX 75034",Blueprint 11,"1,200","64,948",2009,Commercial Condominium (not offices),Off Market,No,No,No,Corporate,Non-Owner Occupied,Occupied,12 Years 3 Months,Cash,Collin,
+3,"8668 John Hickman Pkwy #804
+Frisco, TX 75034",Blueprint 12,"1,210","227,422",2009,Condominium Offices,Off Market,No,No,No,Corporate,Non-Owner Occupied,Occupied,11 Years 9 Months,Cash,Denton,
+3,"8668 John Hickman Pkwy #804
+Frisco, TX 75034",Blueprint 13,"1,150","239,798",2017,Commercial Condominium (not offices),Off Market,No,No,No,Individual,Non-Owner Occupied,Occupied,N/A,Financed,Collin,
+3,"8668 John Hickman Pkwy #804
+Frisco, TX 75034",Blueprint 14,"1,150","239,798",2017,Commercial Condominium (not offices),On Market,No,No,No,Individual,Non-Owner Occupied,Occupied,N/A,Financed,Collin,
+4,"15602 State Highway 160
+Blue Ridge, TX 75424",Primary,"2,400","43,560",2019,Commercial (General),On Market,No,No,No,Corporate,Non-Owner Occupied,Occupied,,Financed,Collin,N/A
+4,"15602 State Highway 160
+Blue Ridge, TX 75424",Blueprint 2,"3,354","7,673",2013,Single Family Residential,Off Market,No,No,No,Individual,Owner Occupied,Occupied,12 Years,Financed,Collin,
+4,"15602 State Highway 160
+Blue Ridge, TX 75424",Blueprint 3,"1,746","520,542",1982,Rural Residence (Agricultural),On Market,No,No,No,Corporate,Non-Owner Occupied,Occupied,7 Years 6 Months,Financed,Collin,
+4,"15602 State Highway 160
+Blue Ridge, TX 75424",Blueprint 4,"2,400","43,560",2019,Commercial (General),On Market,No,No,No,Corporate,Non-Owner Occupied,Occupied,N/A,Financed,Collin,
+4,"15602 State Highway 160
+Blue Ridge, TX 75424",Blueprint 5,"2,692",N/A,2020,Single Family Residential,Off Market,No,No,No,Individual,Non-Owner Occupied,Occupied,4 Years 6 Months,Financed,Collin,
+4,"15602 State Highway 160
+Blue Ridge, TX 75424",Blueprint 6,"3,608","133,947",1983,Commercial-Vacant Land,Off Market,No,No,No,Corporate,Non-Owner Occupied,Occupied,3 Years 8 Months,Financed,Denton,
+5,"6305 Preston Rd #1000
+Plano, TX 75024",Primary,701,"123,144",2004,Commercial Condominium (not offices),On Market,No,No,No,Trust,Non-Owner Occupied,Occupied,16 Years 2 Months,Cash,Collin,N/A
+5,"6305 Preston Rd #1000
+Plano, TX 75024",Blueprint 1,"5,420","999,310",2000,Rural Residence (Agricultural),Off Market,No,No,No,Trust,Owner Occupied,Occupied,9 Years 1 Month,Financed,Hays,
+6,"8751 Collin McKinney Pkwy #1102
+McKinney, TX 75070",Primary,"1,128","350,135",2019,Commercial Condominium (not offices),On Market,No,No,No,Corporate,Non-Owner Occupied,Occupied,,Financed,Collin,N/A
+6,"8751 Collin McKinney Pkwy #1102
+McKinney, TX 75070",Blueprint 1,"1,128","350,135",2019,Commercial Condominium (not offices),On Market,No,No,No,Corporate,Non-Owner Occupied,Occupied,N/A,Financed,Collin,
+7,"7803 McCallum Blvd
+Dallas, TX 75252",Primary,"3,650","36,416",1992,Commercial (General),On Market,No,No,No,Corporate,Non-Owner Occupied,Occupied,20 Years 5 Months,Cash,Collin,N/A
+7,"7803 McCallum Blvd
+Dallas, TX 75252",Blueprint 1,"3,407","7,278",1998,Single Family Residential,Off Market,No,No,No,Individual,Owner Occupied,Occupied,22 Years 3 Months,Financed,Collin,
+7,"7803 McCallum Blvd
+Dallas, TX 75252",Blueprint 3,"3,407","7,278",1998,Single Family Residential,Off Market,No,No,No,Individual,Owner Occupied,Occupied,22 Years 3 Months,Financed,Collin,
+8,"1008 E 15th St
+Plano, TX 75074",Primary,"2,400","1,393",1932,Commercial (General),On Market,No,No,No,Trust,Non-Owner Occupied,Occupied,15 Years,Financed,Collin,N/A
+8,"1008 E 15th St
+Plano, TX 75074",Blueprint 1,"4,753","11,221",1996,Single Family Residential,Off Market,No,No,No,Trust,Owner Occupied,Occupied,26 Years 9 Months,Financed,Denton,
+8,"1008 E 15th St
+Plano, TX 75074",Blueprint 2,"2,400","1,393",1932,Commercial (General),On Market,No,No,No,Trust,Non-Owner Occupied,Occupied,15 Years,Financed,Collin,
+8,"1008 E 15th St
+Plano, TX 75074",Blueprint 3,"4,753","11,221",1996,Single Family Residential,Off Market,No,No,No,Trust,Owner Occupied,Occupied,26 Years 9 Months,Financed,Denton,
+8,"1008 E 15th St
+Plano, TX 75074",Blueprint 4,816,"26,136",1998,Single Family Residential,Off Market,No,No,No,Trust,Non-Owner Occupied,Occupied,19 Years 1 Month,Financed,Delaware,
+9,"5454 Surrey Path #208
+Frisco, TX 75034",Primary,981,"87,120",2019,Commercial Condominium (not offices),On Market,No,No,No,Corporate,Non-Owner Occupied,Occupied,,Financed,Collin,N/A
+9,"5454 Surrey Path #208
+Frisco, TX 75034",Blueprint 1,973,"81,849",2018,Commercial Condominium (not offices),Off Market,No,No,No,Corporate,Non-Owner Occupied,Occupied,N/A,Financed,Collin,
+10,"7043 Elm St
+Frisco, TX 75034",Primary,"1,564","7,250",1948,Commercial (General),On Market,No,No,No,Corporate,Non-Owner Occupied,Occupied,15 Years 3 Months,Cash,Collin,N/A
+10,"7043 Elm St
+Frisco, TX 75034",Blueprint 1,"1,564","7,250",1948,Commercial (General),On Market,No,No,No,Corporate,Non-Owner Occupied,Occupied,15 Years 3 Months,Cash,Collin,
+10,"7043 Elm St
+Frisco, TX 75034",Blueprint 2,"2,793","1,000",1953,Commercial (General),Off Market,No,No,No,Corporate,Non-Owner Occupied,Occupied,15 Years 3 Months,Cash,Collin,
+11,"2001 Auburn Hills Pkwy #303
+McKinney, TX 75071",Primary,"1,388","237,837",2022,Commercial Condominium (not offices),On Market,No,No,No,Corporate,Non-Owner Occupied,Occupied,,Financed,Collin,N/A
+11,"2001 Auburn Hills Pkwy #303
+McKinney, TX 75071",Blueprint 1,"1,748",N/A,2006,Single Family Residential,Off Market,No,No,No,Individual,Non-Owner Occupied,Occupied,16 Years 3 Months,Cash,Collin,
+11,"2001 Auburn Hills Pkwy #303
+McKinney, TX 75071",Blueprint 2,"1,778","7,200",1996,Single Family Residential,Off Market,No,No,No,Corporate,Non-Owner Occupied,Occupied,13 Years 10 Months,Financed,Dallas,
+11,"2001 Auburn Hills Pkwy #303
+McKinney, TX 75071",Blueprint 3,"2,548",N/A,2006,Single Family Residential,Off Market,No,No,No,Corporate,Non-Owner Occupied,Occupied,13 Years 2 Months,Cash,Collin,
+11,"2001 Auburn Hills Pkwy #303
+McKinney, TX 75071",Blueprint 4,"2,808",N/A,2005,Single Family Residential,Off Market,No,No,No,Corporate,Non-Owner Occupied,Occupied,12 Years 10 Months,Cash,Collin,
+11,"2001 Auburn Hills Pkwy #303
+McKinney, TX 75071",Blueprint 5,N/A,"43,996",N/A,Residential (General) (Single),Off Market,No,No,No,Corporate,Non-Owner Occupied,Occupied,N/A,Financed,Grayson,
+11,"2001 Auburn Hills Pkwy #303
+McKinney, TX 75071",Blueprint 6,"2,335",N/A,1981,Single Family Residential,On Market,No,No,No,Corporate,Non-Owner Occupied,Occupied,13 Years 3 Months,Cash,Dallas,
+11,"2001 Auburn Hills Pkwy #303
+McKinney, TX 75071",Blueprint 7,"1,832","6,031",2006,Single Family Residential,Off Market,No,No,No,Individual,Non-Owner Occupied,Occupied,17 Years,Financed,Collin,
+11,"2001 Auburn Hills Pkwy #303
+McKinney, TX 75071",Blueprint 8,760,"4,700",1892,Single Family Residential,Off Market,No,No,No,Trust,Non-Owner Occupied,Occupied,21 Years 1 Month,Financed,Lucas,
+11,"2001 Auburn Hills Pkwy #303
+McKinney, TX 75071",Blueprint 9,N/A,"267,371",2018,Farm land,Off Market,No,No,No,Corporate,Non-Owner Occupied,Occupied,6 Years 3 Months,Financed,Galveston,
+11,"2001 Auburn Hills Pkwy #303
+McKinney, TX 75071",Blueprint 10,"1,423",N/A,2005,Single Family Residential,Off Market,No,No,No,Individual,Non-Owner Occupied,Occupied,9 Years 4 Months,Financed,Tarrant,
+11,"2001 Auburn Hills Pkwy #303
+McKinney, TX 75071",Blueprint 11,"1,659",13,1963,Single Family Residential,Off Market,No,No,No,Corporate,Non-Owner Occupied,Occupied,10 Years 10 Months,Financed,Dallas,
+11,"2001 Auburn Hills Pkwy #303
+McKinney, TX 75071",Blueprint 12,"1,491","118,440",1940,Commercial Building,Off Market,No,No,No,Trust,Non-Owner Occupied,Occupied,15 Years 9 Months,Financed,Dallas,
+11,"2001 Auburn Hills Pkwy #303
+McKinney, TX 75071",Blueprint 13,"2,140",N/A,2002,Single Family Residential,Off Market,No,No,No,Corporate,Non-Owner Occupied,Occupied,7 Years 9 Months,Cash,Denton,
+12,"150 Brand #200
+Murphy, TX 75094",Primary,"1,000","52,664",2018,Commercial Condominium (not offices),On Market,No,No,No,Corporate,Non-Owner Occupied,Occupied,,Financed,Collin,N/A
+12,"150 Brand #200
+Murphy, TX 75094",Blueprint 1,"4,882","12,150",2010,Single Family Residential,Off Market,No,No,No,Individual,Owner Occupied,Occupied,7 Years 3 Months,Financed,Denton,
+12,"150 Brand #200
+Murphy, TX 75094",Blueprint 7,"4,882","12,150",2010,Single Family Residential,Off Market,No,No,No,Individual,Owner Occupied,Occupied,7 Years 3 Months,Financed,Denton,
+13,"3170 S Ridge Rd #130
+McKinney, TX 75070",Primary,"9,171","101,364",2021,Commercial Condominium (not offices),On Market,No,No,No,Corporate,Non-Owner Occupied,Occupied,,Financed,Collin,N/A
+13,"3170 S Ridge Rd #130
+McKinney, TX 75070",Blueprint 1,"3,704","7,417",2016,Single Family Residential,Off Market,No,No,No,Trust,Non-Owner Occupied,Occupied,9 Years,Financed,Collin,
+13,"3170 S Ridge Rd #130
+McKinney, TX 75070",Blueprint 2,N/A,2,N/A,Commercial-Vacant Land,Off Market,No,No,No,Corporate,Non-Owner Occupied,Occupied,31 Years 1 Month,Financed,Denton,
+13,"3170 S Ridge Rd #130
+McKinney, TX 75070",Blueprint 3,N/A,2,N/A,Commercial-Vacant Land,Off Market,No,No,No,Corporate,Non-Owner Occupied,Occupied,N/A,Financed,Denton,
+13,"3170 S Ridge Rd #130
+McKinney, TX 75070",Blueprint 4,"2,156","1,230",1995,Mobile home,Off Market,No,No,No,Corporate,Non-Owner Occupied,Occupied,13 Years 1 Month,Cash,Denton,
+13,"3170 S Ridge Rd #130
+McKinney, TX 75070",Blueprint 5,"9,320","101,364",2021,Commercial Condominium (not offices),Off Market,No,No,No,Corporate,Non-Owner Occupied,Occupied,N/A,Financed,Collin,
+13,"3170 S Ridge Rd #130
+McKinney, TX 75070",Blueprint 6,"9,206","101,364",2021,Commercial Condominium (not offices),Off Market,No,No,No,Corporate,Non-Owner Occupied,Occupied,N/A,Financed,Collin,
+13,"3170 S Ridge Rd #130
+McKinney, TX 75070",Blueprint 7,"9,171","101,364",2021,Commercial Condominium (not offices),On Market,No,No,No,Corporate,Non-Owner Occupied,Occupied,N/A,Financed,Collin,
+13,"3170 S Ridge Rd #130
+McKinney, TX 75070",Blueprint 8,"1,128","101,364",2022,Commercial Condominium (not offices),Off Market,No,No,No,Corporate,Non-Owner Occupied,Occupied,N/A,Financed,Collin,
+13,"3170 S Ridge Rd #130
+McKinney, TX 75070",Blueprint 9,"1,128","101,364",2022,Commercial Condominium (not offices),Off Market,No,No,No,Corporate,Non-Owner Occupied,Occupied,N/A,Cash,Collin,
+13,"3170 S Ridge Rd #130
+McKinney, TX 75070",Blueprint 10,"1,225",7,2022,Commercial Condominium (not offices),Off Market,No,No,No,Individual,Non-Owner Occupied,Occupied,2 Years 9 Months,Financed,Collin,
+13,"3170 S Ridge Rd #130
+McKinney, TX 75070",Blueprint 11,"7,993","41,600",2017,Commercial (General),Off Market,No,No,No,Corporate,Non-Owner Occupied,Occupied,4 Years 11 Months,Financed,Collin,
+13,"3170 S Ridge Rd #130
+McKinney, TX 75070",Blueprint 12,"3,704","7,417",2016,Single Family Residential,Off Market,No,No,No,Trust,Non-Owner Occupied,Occupied,9 Years,Financed,Collin,
+13,"3170 S Ridge Rd #130
+McKinney, TX 75070",Blueprint 13,N/A,"136,822",N/A,Commercial-Vacant Land,Off Market,No,No,No,Corporate,Non-Owner Occupied,Occupied,N/A,Financed,Denton,
+14,"6726 Main St
+Frisco, TX 75033",Primary,"11,966","37,897",1968,Commercial (General),On Market,No,No,No,Corporate,Non-Owner Occupied,Occupied,20 Years 7 Months,Financed,Collin,N/A
+14,"6726 Main St
+Frisco, TX 75033",Blueprint 1,"7,784","31,929",2017,Commercial Office (General),Off Market,No,No,No,Corporate,Non-Owner Occupied,Occupied,N/A,Financed,Collin,
+14,"6726 Main St
+Frisco, TX 75033",Blueprint 2,N/A,"9,148",N/A,Commercial (General),Off Market,No,No,No,Corporate,Non-Owner Occupied,Occupied,N/A,Financed,Collin,
+14,"6726 Main St
+Frisco, TX 75033",Blueprint 3,"11,966","37,897",1968,Commercial (General),On Market,No,No,No,Corporate,Non-Owner Occupied,Occupied,20 Years 7 Months,Financed,Collin,
+15,"5850 Town and Country Blvd #301
+Frisco, TX 75034",Primary,"1,172","167,706",2003,Commercial Condominium (not offices),On Market,No,No,No,Mixed,Non-Owner Occupied,Occupied,20 Years 11 Months,Financed,Collin,N/A
+15,"5850 Town and Country Blvd #301
+Frisco, TX 75034",Blueprint 1,"1,172","167,706",2003,Commercial Condominium (not offices),On Market,No,No,No,Mixed,Non-Owner Occupied,Occupied,20 Years 11 Months,Financed,Collin,
+16,"1402 S Custer Rd #302
+McKinney, TX 75072",Primary,"1,230","186,915",2017,Commercial Condominium (not offices),On Market,No,No,No,Corporate,Non-Owner Occupied,Occupied,,Financed,Collin,N/A
+16,"1402 S Custer Rd #302
+McKinney, TX 75072",Blueprint 1,"4,453","12,991",2004,Single Family Residential,Off Market,No,No,No,Trust,Owner Occupied,Occupied,19 Years 4 Months,Financed,Collin,
+16,"1402 S Custer Rd #302
+McKinney, TX 75072",Blueprint 2,"1,828",N/A,2017,Single Family Residential,Off Market,No,No,No,Corporate,Non-Owner Occupied,Occupied,4 Years 2 Months,Cash,Collin,
+16,"1402 S Custer Rd #302
+McKinney, TX 75072",Blueprint 3,"1,230","186,920",2017,Commercial Condominium (not offices),Off Market,No,No,No,Corporate,Non-Owner Occupied,Occupied,N/A,Financed,Collin,
+16,"1402 S Custer Rd #302
+McKinney, TX 75072",Blueprint 4,"1,230","186,915",2017,Commercial Condominium (not offices),On Market,No,No,No,Corporate,Non-Owner Occupied,Occupied,N/A,Financed,Collin,
+16,"1402 S Custer Rd #302
+McKinney, TX 75072",Blueprint 5,"4,453","12,991",2004,Single Family Residential,Off Market,No,No,No,Trust,Owner Occupied,Occupied,19 Years 4 Months,Financed,Collin,
+16,"1402 S Custer Rd #302
+McKinney, TX 75072",Blueprint 6,791,N/A,2007,Condominium (Residential),Off Market,No,No,Yes,Individual,Non-Owner Occupied,Occupied,2 Years 8 Months,Financed,Miami-dade,
+16,"1402 S Custer Rd #302
+McKinney, TX 75072",Blueprint 7,"1,336",N/A,2005,Single Family Residential,Off Market,No,No,No,Corporate,Non-Owner Occupied,Occupied,7 Years 10 Months,Cash,Collin,
+16,"1402 S Custer Rd #302
+McKinney, TX 75072",Blueprint 8,"1,350",8,1989,Commercial (General),Off Market,No,No,No,Corporate,Non-Owner Occupied,Occupied,8 Years 7 Months,Financed,Denton,
+16,"1402 S Custer Rd #302
+McKinney, TX 75072",Blueprint 9,"1,059",44,2003,Condominium (Residential),Off Market,No,No,Yes,Trust,Non-Owner Occupied,Occupied,12 Years 11 Months,Cash,San Joaquin,
+16,"1402 S Custer Rd #302
+McKinney, TX 75072",Blueprint 10,"2,011","6,239",2003,Single Family Residential,Off Market,No,No,No,Corporate,Non-Owner Occupied,Occupied,8 Years,Cash,Collin,
+16,"1402 S Custer Rd #302
+McKinney, TX 75072",Blueprint 11,N/A,"1,361,250",N/A,Agricultural / Rural,Off Market,No,No,No,Trust,Non-Owner Occupied,Occupied,9 Months,Cash,Hunt,
+16,"1402 S Custer Rd #302
+McKinney, TX 75072",Blueprint 12,N/A,"108,900",N/A,Vacant Land (General),Off Market,No,No,No,Individual,Non-Owner Occupied,Occupied,3 Years,Cash,Kern,
+17,"701 N Tennessee St
+McKinney, TX 75069",Primary,"1,200","5,000",1986,Commercial (General),On Market,No,No,No,Individual,Non-Owner Occupied,Occupied,,Financed,Collin,N/A
+17,"701 N Tennessee St
+McKinney, TX 75069",Blueprint 1,"1,361","11,234",1966,Single Family Residential,Off Market,No,No,No,Individual,Owner Occupied,Occupied,31 Years 4 Months,Financed,Collin,
+17,"701 N Tennessee St
+McKinney, TX 75069",Blueprint 2,"1,361","11,234",1966,Single Family Residential,Off Market,No,No,No,Individual,Owner Occupied,Occupied,31 Years 4 Months,Financed,Collin,
+17,"701 N Tennessee St
+McKinney, TX 75069",Blueprint 3,"2,250","6,226",1975,Commercial (General),Off Market,No,No,No,Individual,Non-Owner Occupied,Vacant,N/A,Financed,Collin,
+17,"701 N Tennessee St
+McKinney, TX 75069",Blueprint 4,"1,164","2,567,949",1965,Rural Residence (Agricultural),Off Market,No,No,No,Individual,Non-Owner Occupied,Occupied,N/A,Financed,Collin,
+17,"701 N Tennessee St
+McKinney, TX 75069",Blueprint 5,"1,129","50,530",1948,Single Family Residential,Off Market,No,No,No,Individual,Non-Owner Occupied,Occupied,26 Years 11 Months,Financed,Collin,
+17,"701 N Tennessee St
+McKinney, TX 75069",Blueprint 6,N/A,"3,977",N/A,Residential-Vacant Land,On Market,No,No,No,Individual,Non-Owner Occupied,Occupied,N/A,Financed,Collin,
+17,"701 N Tennessee St
+McKinney, TX 75069",Blueprint 7,"1,200","5,000",1986,Commercial (General),On Market,No,No,No,Individual,Non-Owner Occupied,Occupied,N/A,Financed,Collin,
+17,"701 N Tennessee St
+McKinney, TX 75069",Blueprint 8,N/A,"65,340",N/A,Agricultural-Unimproved Vacant Land,Off Market,No,No,No,Individual,Non-Owner Occupied,Occupied,N/A,Financed,Collin,
+18,"811 Countryview Trl
+Princeton, TX 75407",Primary,"3,979","1,672,573",2011,Commercial (General),On Market,No,No,No,Individual,Non-Owner Occupied,Occupied,18 Years 3 Months,Cash,Collin,N/A
+18,"811 Countryview Trl
+Princeton, TX 75407",Blueprint 1,"1,200","90,169",1980,Mobile home,Off Market,No,No,No,Individual,Non-Owner Occupied,Occupied,N/A,Financed,Collin,
+19,"716 E Main St
+Allen, TX 75002",Primary,"4,660","40,162",1975,Commercial (General),On Market,No,No,No,Corporate,Non-Owner Occupied,Occupied,22 Years 4 Months,Cash,Collin,N/A
+19,"716 E Main St
+Allen, TX 75002",Blueprint 1,"3,321","12,361",1994,Single Family Residential,Off Market,No,No,Yes,Trust,Owner Occupied,Occupied,20 Years 10 Months,Financed,San Diego,
+19,"716 E Main St
+Allen, TX 75002",Blueprint 5,"3,321","12,361",1994,Single Family Residential,Off Market,No,No,Yes,Trust,Owner Occupied,Occupied,20 Years 10 Months,Financed,San Diego,
+20,"3721 S Stonebridge Dr #202
+McKinney, TX 75070",Primary,"1,225","297,993",2021,Commercial Condominium (not offices),On Market,No,No,No,Corporate,Non-Owner Occupied,Occupied,,Financed,Collin,N/A
+20,"3721 S Stonebridge Dr #202
+McKinney, TX 75070",Blueprint 1,"8,076","227,287",2015,Rural Residence (Agricultural),Off Market,No,No,No,Individual,Owner Occupied,Occupied,10 Years 9 Months,Financed,Collin,
+20,"3721 S Stonebridge Dr #202
+McKinney, TX 75070",Blueprint 8,"8,076","227,287",2015,Rural Residence (Agricultural),Off Market,No,No,No,Individual,Owner Occupied,Occupied,10 Years 9 Months,Financed,Collin,
+21,"223 McKinney St
+Farmersville, TX 75442",Primary,647,"42,406",1978,Commercial (General),On Market,Bank Owned,No,No,Corporate,Non-Owner Occupied,Vacant,,Financed,Collin,N/A
+21,"223 McKinney St
+Farmersville, TX 75442",Blueprint 1,"3,607","73,355",1999,Commercial (General),Off Market,Bank Owned,No,No,Corporate,Non-Owner Occupied,Vacant,N/A,Financed,Collin,
+21,"223 McKinney St
+Farmersville, TX 75442",Blueprint 2,720,"22,098",1988,Commercial (General),Off Market,No,No,No,Corporate,Non-Owner Occupied,Occupied,N/A,Financed,Collin,
+21,"223 McKinney St
+Farmersville, TX 75442",Blueprint 3,"5,698","124,015",2006,Commercial (General),Off Market,Bank Owned,No,No,Corporate,Non-Owner Occupied,Vacant,22 Years 1 Month,Cash,Collin,
+21,"223 McKinney St
+Farmersville, TX 75442",Blueprint 4,647,"42,406",1978,Commercial (General),On Market,Bank Owned,No,No,Corporate,Non-Owner Occupied,Vacant,N/A,Financed,Collin,
+21,"223 McKinney St
+Farmersville, TX 75442",Blueprint 5,N/A,"19,371",N/A,Commercial (General),Off Market,No,No,No,Corporate,Non-Owner Occupied,Occupied,N/A,Financed,Collin,
+21,"223 McKinney St
+Farmersville, TX 75442",Blueprint 6,N/A,"10,498",N/A,Commercial-Vacant Land,Off Market,No,No,No,Corporate,Non-Owner Occupied,Occupied,N/A,Financed,Collin,
+21,"223 McKinney St
+Farmersville, TX 75442",Blueprint 7,N/A,"21,759",N/A,Commercial (General),Off Market,Bank Owned,No,No,Corporate,Non-Owner Occupied,Vacant,N/A,Financed,Collin,
+22,"8751 Collin McKinney Pkwy #903
+McKinney, TX 75070",Primary,910,"350,135",2019,Commercial Condominium (not offices),On Market,No,No,No,Corporate,Non-Owner Occupied,Occupied,,Financed,Collin,N/A
+22,"8751 Collin McKinney Pkwy #903
+McKinney, TX 75070",Blueprint 1,"2,374","350,135",2019,Commercial Condominium (not offices),Off Market,No,No,No,Corporate,Non-Owner Occupied,Occupied,N/A,Financed,Collin,
+22,"8751 Collin McKinney Pkwy #903
+McKinney, TX 75070",Blueprint 2,"2,374","350,135",2019,Commercial Condominium (not offices),Off Market,No,No,No,Corporate,Non-Owner Occupied,Occupied,N/A,Financed,Collin,
+22,"8751 Collin McKinney Pkwy #903
+McKinney, TX 75070",Blueprint 3,910,"350,135",2019,Commercial Condominium (not offices),On Market,No,No,No,Corporate,Non-Owner Occupied,Occupied,N/A,Financed,Collin,
+23,"2137 Chelsea Rd #C17
+Allen, TX 75013",Primary,"2,233","376,145",2018,Commercial Condominium (not offices),On Market,No,No,No,Individual,Non-Owner Occupied,Occupied,,Financed,Collin,N/A
+23,"2137 Chelsea Rd #C17
+Allen, TX 75013",Blueprint 1,"4,162","21,010",2004,Single Family Residential,Off Market,No,No,No,Individual,Owner Occupied,Occupied,3 Years 10 Months,Financed,Collin,
+23,"2137 Chelsea Rd #C17
+Allen, TX 75013",Blueprint 2,"2,233","376,145",2018,Commercial Condominium (not offices),On Market,No,No,No,Individual,Non-Owner Occupied,Occupied,N/A,Financed,Collin,
+23,"2137 Chelsea Rd #C17
+Allen, TX 75013",Blueprint 3,"4,162","21,010",2004,Single Family Residential,Off Market,No,No,No,Individual,Owner Occupied,Occupied,3 Years 10 Months,Financed,Collin,
+24,"910 18th St
+Plano, TX 75074",Primary,"4,112","20,400",1944,Commercial (General),On Market,No,No,No,Corporate,Non-Owner Occupied,Occupied,,Financed,Collin,N/A
+24,"910 18th St
+Plano, TX 75074",Blueprint 1,"1,568","18,034",1975,Residential (General) (Single),Off Market,No,Yes,No,Corporate,Non-Owner Occupied,Occupied,N/A,Financed,Hunt,
+25,"3900 S Stonebridge Dr #401
+McKinney, TX 75070",Primary,"1,225","519,026",2015,Commercial Condominium (not offices),On Market,No,No,No,Corporate,Non-Owner Occupied,Occupied,,Financed,Collin,N/A
+25,"3900 S Stonebridge Dr #401
+McKinney, TX 75070",Blueprint 1,"2,532",N/A,2019,Single Family Residential,Off Market,No,No,No,Individual,Owner Occupied,Occupied,4 Years,Financed,Collin,
+25,"3900 S Stonebridge Dr #401
+McKinney, TX 75070",Blueprint 2,"2,532",N/A,2019,Single Family Residential,Off Market,No,No,No,Individual,Owner Occupied,Occupied,4 Years,Financed,Collin,
+25,"3900 S Stonebridge Dr #401
+McKinney, TX 75070",Blueprint 3,"1,225","519,026",2015,Commercial Condominium (not offices),On Market,No,No,No,Corporate,Non-Owner Occupied,Occupied,N/A,Financed,Collin,
+25,"3900 S Stonebridge Dr #401
+McKinney, TX 75070",Blueprint 4,"1,225","519,026",2015,Commercial Condominium (not offices),Off Market,No,No,No,Corporate,Non-Owner Occupied,Occupied,N/A,Financed,Collin,
+25,"3900 S Stonebridge Dr #401
+McKinney, TX 75070",Blueprint 5,"4,900",11,2015,Commercial Condominium (not offices),Off Market,No,No,No,Corporate,Non-Owner Occupied,Occupied,N/A,Financed,Collin,
+25,"3900 S Stonebridge Dr #401
+McKinney, TX 75070",Blueprint 6,"4,900","519,026",2015,Commercial Condominium (not offices),Off Market,No,No,No,Corporate,Non-Owner Occupied,Occupied,N/A,Financed,Collin,
+25,"3900 S Stonebridge Dr #401
+McKinney, TX 75070",Blueprint 7,"1,868",N/A,1969,Medical Bldg,Off Market,No,No,No,Corporate,Non-Owner Occupied,Vacant,3 Years 10 Months,Cash,Dallas,
+26,"8751 Collin McKinney Pkwy #603
+McKinney, TX 75070",Primary,"1,174","350,135",2019,Commercial Condominium (not offices),On Market,No,No,No,Corporate,Non-Owner Occupied,Occupied,,Financed,Collin,N/A
+26,"8751 Collin McKinney Pkwy #603
+McKinney, TX 75070",Blueprint 1,"1,178","145,360",2019,Commercial (General),Off Market,No,No,No,Corporate,Non-Owner Occupied,Occupied,N/A,Financed,Collin,
+26,"8751 Collin McKinney Pkwy #603
+McKinney, TX 75070",Blueprint 2,"1,287","6,515",1992,Single Family Residential,Off Market,No,No,No,Corporate,Non-Owner Occupied,Occupied,10 Years 6 Months,Financed,Dallas,
+26,"8751 Collin McKinney Pkwy #603
+McKinney, TX 75070",Blueprint 3,"4,122",N/A,2021,Single Family Residential,Off Market,No,No,No,Corporate,Non-Owner Occupied,Occupied,N/A,Financed,Collin,
+26,"8751 Collin McKinney Pkwy #603
+McKinney, TX 75070",Blueprint 4,"3,877",N/A,2021,Single Family Residential,Off Market,No,No,No,Corporate,Non-Owner Occupied,Occupied,N/A,Financed,Collin,
+26,"8751 Collin McKinney Pkwy #603
+McKinney, TX 75070",Blueprint 5,"3,877",N/A,2021,Single Family Residential,Off Market,No,No,No,Corporate,Non-Owner Occupied,Occupied,N/A,Financed,Collin,
+26,"8751 Collin McKinney Pkwy #603
+McKinney, TX 75070",Blueprint 6,"1,174","350,135",2019,Commercial Condominium (not offices),On Market,No,No,No,Corporate,Non-Owner Occupied,Occupied,N/A,Financed,Collin,
+27,"3400 Eldorado Pkwy #4D3
+McKinney, TX 75070",Primary,"1,012","73,703",2012,Commercial Condominium (not offices),On Market,No,No,No,Corporate,Non-Owner Occupied,Occupied,,Financed,Collin,N/A
+27,"3400 Eldorado Pkwy #4D3
+McKinney, TX 75070",Blueprint 1,"3,670",N/A,1948,Single Family Residential,Off Market,No,No,No,Individual,Owner Occupied,Occupied,2 Years,Financed,Collin,
+27,"3400 Eldorado Pkwy #4D3
+McKinney, TX 75070",Blueprint 2,"4,094","2,375",1900,Commercial (General),Off Market,No,No,No,Corporate,Non-Owner Occupied,Occupied,4 Years 5 Months,Cash,Collin,
+27,"3400 Eldorado Pkwy #4D3
+McKinney, TX 75070",Blueprint 3,"6,231","25,439",2005,Commercial Office (General),Off Market,No,No,No,Corporate,Non-Owner Occupied,Occupied,4 Years 5 Months,Financed,Collin,
+27,"3400 Eldorado Pkwy #4D3
+McKinney, TX 75070",Blueprint 4,"1,012","73,697",2012,Commercial Condominium (not offices),Off Market,No,No,No,Corporate,Non-Owner Occupied,Occupied,N/A,Financed,Collin,
+27,"3400 Eldorado Pkwy #4D3
+McKinney, TX 75070",Blueprint 5,"1,012","73,697",2012,Commercial Condominium (not offices),Off Market,No,No,No,Corporate,Non-Owner Occupied,Occupied,10 Years 1 Month,Cash,Collin,
+27,"3400 Eldorado Pkwy #4D3
+McKinney, TX 75070",Blueprint 6,"1,012","73,703",2012,Commercial Condominium (not offices),On Market,No,No,No,Corporate,Non-Owner Occupied,Occupied,N/A,Financed,Collin,
+27,"3400 Eldorado Pkwy #4D3
+McKinney, TX 75070",Blueprint 7,"1,012","73,697",2012,Commercial Condominium (not offices),Off Market,No,No,No,Corporate,Non-Owner Occupied,Occupied,N/A,Financed,Collin,
+27,"3400 Eldorado Pkwy #4D3
+McKinney, TX 75070",Blueprint 8,"3,670",N/A,1948,Single Family Residential,Off Market,No,No,No,Individual,Owner Occupied,Occupied,2 Years,Financed,Collin,
+27,"3400 Eldorado Pkwy #4D3
+McKinney, TX 75070",Blueprint 9,N/A,"1,999",N/A,Single Family Residential,Off Market,No,No,No,Individual,Non-Owner Occupied,Occupied,N/A,Financed,Collin,
+28,"11583 Independence Pkwy #410
+Frisco, TX 75035",Primary,"1,114","48,351",2022,Commercial Condominium (not offices),On Market,No,No,No,Corporate,Non-Owner Occupied,Occupied,,Financed,Collin,N/A
+28,"11583 Independence Pkwy #410
+Frisco, TX 75035",Blueprint 1,"1,114","48,351",2022,Commercial Condominium (not offices),On Market,No,No,No,Corporate,Non-Owner Occupied,Occupied,N/A,Financed,Collin,
+29,"4601 Old Shepard Pl #201
+Plano, TX 75093",Primary,"2,770","203,817",2004,Commercial Condominium (not offices),On Market,No,No,No,Corporate,Non-Owner Occupied,Occupied,19 Years 8 Months,Financed,Collin,N/A
+29,"4601 Old Shepard Pl #201
+Plano, TX 75093",Blueprint 1,"4,579","61,437",2020,"Outdoor Recreation: Beach, Mountain, Desert",Off Market,No,No,No,Corporate,Non-Owner Occupied,Occupied,6 Months,Financed,Harris,
+30,"3128 Hudson Xing #F3
+McKinney, TX 75070",Primary,"1,032","86,031",2014,Commercial Condominium (not offices),On Market,No,No,No,Corporate,Non-Owner Occupied,Occupied,,Financed,Collin,N/A
+30,"3128 Hudson Xing #F3
+McKinney, TX 75070",Blueprint 1,"1,032","86,031",2014,Commercial Condominium (not offices),On Market,No,No,No,Corporate,Non-Owner Occupied,Occupied,N/A,Financed,Collin,
+30,"3128 Hudson Xing #F3
+McKinney, TX 75070",Blueprint 2,"1,032","86,048",2014,Commercial Condominium (not offices),Off Market,No,No,No,Corporate,Non-Owner Occupied,Occupied,N/A,Financed,Collin,
+30,"3128 Hudson Xing #F3
+McKinney, TX 75070",Blueprint 3,"1,032","86,031",2014,Commercial Condominium (not offices),On Market,No,No,No,Corporate,Non-Owner Occupied,Occupied,N/A,Financed,Collin,
+31,"1890 K Ave #100
+Plano, TX 75074",Primary,"12,405","43,303",2015,Commercial (General),On Market,No,No,No,Corporate,Non-Owner Occupied,Occupied,21 Years 3 Months,Financed,Collin,N/A
+31,"1890 K Ave #100
+Plano, TX 75074",Blueprint 1,"2,664","9,261",1982,Single Family Residential,Off Market,No,No,No,Individual,Owner Occupied,Occupied,N/A,Financed,Collin,
+31,"1890 K Ave #100
+Plano, TX 75074",Blueprint 2,"2,664","9,261",1982,Single Family Residential,Off Market,No,No,No,Individual,Owner Occupied,Occupied,N/A,Financed,Collin,
+31,"1890 K Ave #100
+Plano, TX 75074",Blueprint 3,"12,405","43,303",2015,Commercial (General),On Market,No,No,No,Corporate,Non-Owner Occupied,Occupied,21 Years 3 Months,Financed,Collin,
+31,"1890 K Ave #100
+Plano, TX 75074",Blueprint 4,"4,896","11,862",1980,Apartments (generic),Off Market,No,No,No,Corporate,Non-Owner Occupied,Occupied,7 Years 2 Months,Cash,Hunt,
+31,"1890 K Ave #100
+Plano, TX 75074",Blueprint 5,"1,360","10,585",1960,Single Family Residential,Off Market,No,No,No,Corporate,Non-Owner Occupied,Occupied,N/A,Financed,Hunt,
+31,"1890 K Ave #100
+Plano, TX 75074",Blueprint 6,N/A,"43,255",N/A,Commercial (General),Off Market,No,No,No,Corporate,Non-Owner Occupied,Occupied,N/A,Financed,Hunt,
+31,"1890 K Ave #100
+Plano, TX 75074",Blueprint 7,"1,188","9,857",1975,Single Family Residential,Off Market,No,No,No,Corporate,Non-Owner Occupied,Occupied,7 Years 5 Months,Cash,Hunt,
+31,"1890 K Ave #100
+Plano, TX 75074",Blueprint 8,"1,478","6,760",1970,Single Family Residential,Off Market,No,No,No,Corporate,Non-Owner Occupied,Occupied,N/A,Financed,Hunt,
+32,"1400 N Coit Rd #902
+McKinney, TX 75071",Primary,"1,167","1,167",2018,Commercial Condominium (not offices),On Market,No,No,No,Corporate,Non-Owner Occupied,Occupied,,Financed,Collin,N/A
+32,"1400 N Coit Rd #902
+McKinney, TX 75071",Blueprint 1,"4,840","8,791",2013,Single Family Residential,Off Market,No,No,No,Corporate,Owner Occupied,Occupied,3 Years 7 Months,Financed,Collin,
+32,"1400 N Coit Rd #902
+McKinney, TX 75071",Blueprint 2,"1,167","1,167",2018,Commercial Condominium (not offices),On Market,No,No,No,Corporate,Non-Owner Occupied,Occupied,N/A,Financed,Collin,
+32,"1400 N Coit Rd #902
+McKinney, TX 75071",Blueprint 3,"1,388","237,838",2022,Commercial Condominium (not offices),Off Market,No,No,No,Corporate,Non-Owner Occupied,Occupied,2 Years 7 Months,Cash,Collin,
+32,"1400 N Coit Rd #902
+McKinney, TX 75071",Blueprint 4,"4,840","8,791",2013,Single Family Residential,Off Market,No,No,No,Corporate,Owner Occupied,Occupied,3 Years 7 Months,Financed,Collin,
+33,"6161 County Road 124
+McKinney, TX 75071",Primary,"122,317","439,956",2006,Commercial (General),On Market,No,No,No,Corporate,Non-Owner Occupied,Occupied,20 Years 4 Months,Financed,Collin,N/A
+33,"6161 County Road 124
+McKinney, TX 75071",Blueprint 1,"122,317","439,956",2006,Commercial (General),On Market,No,No,No,Corporate,Non-Owner Occupied,Occupied,20 Years 4 Months,Financed,Collin,
+33,"6161 County Road 124
+McKinney, TX 75071",Blueprint 2,"1,680","218,758",2008,Mobile home,Off Market,No,No,No,Individual,Non-Owner Occupied,Occupied,11 Years 9 Months,Cash,Collin,
+33,"6161 County Road 124
+McKinney, TX 75071",Blueprint 3,"122,317","439,956",2006,Commercial (General),On Market,No,No,No,Corporate,Non-Owner Occupied,Occupied,20 Years 4 Months,Financed,Collin,
+34,"317 W Princeton Dr
+Princeton, TX 75407",Primary,"2,890","33,192",2001,Commercial (General),On Market,No,No,No,Corporate,Non-Owner Occupied,Occupied,24 Years 10 Months,Financed,Collin,N/A
+34,"317 W Princeton Dr
+Princeton, TX 75407",Blueprint 1,525,"18,191",2014,Commercial (General),Off Market,No,No,No,Corporate,Non-Owner Occupied,Occupied,3 Years 8 Months,Cash,Collin,
+34,"317 W Princeton Dr
+Princeton, TX 75407",Blueprint 2,"2,776","21,911",1990,Commercial (General),Off Market,No,No,No,Corporate,Non-Owner Occupied,Occupied,4 Years 9 Months,Financed,Collin,
+34,"317 W Princeton Dr
+Princeton, TX 75407",Blueprint 3,525,"18,191",2014,Commercial (General),Off Market,No,No,No,Corporate,Non-Owner Occupied,Occupied,3 Years 8 Months,Cash,Collin,
+34,"317 W Princeton Dr
+Princeton, TX 75407",Blueprint 4,"1,896","101,930",1920,Single Family Residential,Off Market,No,No,No,Corporate,Non-Owner Occupied,Occupied,N/A,Financed,Collin,
+34,"317 W Princeton Dr
+Princeton, TX 75407",Blueprint 5,"1,350","11,722",1978,Commercial (General),Off Market,No,No,No,Corporate,Non-Owner Occupied,Occupied,11 Months,Cash,Collin,
+34,"317 W Princeton Dr
+Princeton, TX 75407",Blueprint 6,"4,000","37,009",1994,Commercial (General),Off Market,No,No,No,Corporate,Non-Owner Occupied,Occupied,11 Months,Cash,Collin,
+34,"317 W Princeton Dr
+Princeton, TX 75407",Blueprint 7,"2,890","33,192",2001,Commercial (General),On Market,No,No,No,Corporate,Non-Owner Occupied,Occupied,24 Years 10 Months,Financed,Collin,
+34,"317 W Princeton Dr
+Princeton, TX 75407",Blueprint 8,"5,632","27,160",1985,Commercial (General),Off Market,No,No,No,Corporate,Non-Owner Occupied,Occupied,2 Years 2 Months,Cash,Collin,
+34,"317 W Princeton Dr
+Princeton, TX 75407",Blueprint 9,"3,472","25,264",2003,Commercial (General),On Market,No,No,No,Corporate,Non-Owner Occupied,Occupied,14 Years 7 Months,Financed,Collin,
+35,"112 W Main St
+Allen, TX 75013",Primary,"1,404","11,499",1940,Commercial (General),On Market,No,No,No,Individual,Non-Owner Occupied,Occupied,,Financed,Collin,N/A
+35,"112 W Main St
+Allen, TX 75013",Blueprint 1,"1,404","11,499",1940,Commercial-Vacant Land,Off Market,No,No,No,Individual,Owner Occupied,Occupied,27 Years 6 Months,Financed,Collin,
+35,"112 W Main St
+Allen, TX 75013",Blueprint 2,"1,404","11,499",1940,Commercial-Vacant Land,Off Market,No,No,No,Individual,Owner Occupied,Occupied,27 Years 6 Months,Financed,Collin,
+35,"112 W Main St
+Allen, TX 75013",Blueprint 3,"1,404","11,499",1940,Commercial (General),On Market,No,No,No,Individual,Non-Owner Occupied,Occupied,N/A,Financed,Collin,
+36,"4400 Preston Rd
+Frisco, TX 75034",Primary,"14,375","106,382",1989,Commercial (General),On Market,No,No,No,Corporate,Non-Owner Occupied,Occupied,20 Years 6 Months,Cash,Collin,N/A
+36,"4400 Preston Rd
+Frisco, TX 75034",Blueprint 1,"3,496","16,270",1954,Commercial Office (General),Off Market,No,No,No,Corporate,Non-Owner Occupied,Occupied,24 Years 4 Months,Cash,Dallas,
+36,"4400 Preston Rd
+Frisco, TX 75034",Blueprint 2,"3,496","16,270",1954,Commercial Office (General),Off Market,No,No,No,Corporate,Non-Owner Occupied,Occupied,24 Years 4 Months,Cash,Dallas,
+36,"4400 Preston Rd
+Frisco, TX 75034",Blueprint 3,"14,375","106,382",1989,Commercial (General),On Market,No,No,No,Corporate,Non-Owner Occupied,Occupied,20 Years 6 Months,Cash,Collin,
+37,"110 S Preston Rd #B2
+Prosper, TX 75078",Primary,700,"360,415",2020,Commercial Condominium (not offices),On Market,No,No,No,Corporate,Non-Owner Occupied,Occupied,,Financed,Collin,N/A
+37,"110 S Preston Rd #B2
+Prosper, TX 75078",Blueprint 1,"4,882","12,150",2010,Single Family Residential,Off Market,No,No,No,Individual,Owner Occupied,Occupied,7 Years 3 Months,Financed,Denton,
+37,"110 S Preston Rd #B2
+Prosper, TX 75078",Blueprint 2,"8,076","32,670",2004,Commercial (General),Off Market,No,No,No,Corporate,Non-Owner Occupied,Occupied,3 Years 11 Months,Financed,Collin,
+37,"110 S Preston Rd #B2
+Prosper, TX 75078",Blueprint 3,700,"360,415",2020,Commercial Condominium (not offices),On Market,No,No,No,Corporate,Non-Owner Occupied,Occupied,N/A,Financed,Collin,
+37,"110 S Preston Rd #B2
+Prosper, TX 75078",Blueprint 4,"1,000","52,664",2018,Commercial Condominium (not offices),On Market,No,No,No,Corporate,Non-Owner Occupied,Occupied,N/A,Financed,Collin,
+37,"110 S Preston Rd #B2
+Prosper, TX 75078",Blueprint 5,"1,000","52,664",2018,Commercial Condominium (not offices),Off Market,No,No,No,Corporate,Non-Owner Occupied,Occupied,N/A,Financed,Collin,
+37,"110 S Preston Rd #B2
+Prosper, TX 75078",Blueprint 6,"1,216","208,217",2023,Condominium Offices,Off Market,No,No,No,Corporate,Non-Owner Occupied,Occupied,N/A,Financed,Denton,
+37,"110 S Preston Rd #B2
+Prosper, TX 75078",Blueprint 7,"4,882","12,150",2010,Single Family Residential,Off Market,No,No,No,Individual,Owner Occupied,Occupied,7 Years 3 Months,Financed,Denton,
+37,"110 S Preston Rd #B2
+Prosper, TX 75078",Blueprint 8,250,"1,150",2017,Commercial Condominium (not offices),Off Market,No,No,No,Corporate,Non-Owner Occupied,Occupied,7 Years 4 Months,Financed,Collin,
+38,"107 S Main St
+Farmersville, TX 75442",Primary,"2,590","4,487",1930,Commercial (General),On Market,No,No,No,Individual,Non-Owner Occupied,Occupied,,Financed,Collin,N/A
+38,"107 S Main St
+Farmersville, TX 75442",Blueprint 1,"4,032","19,502",1924,Single Family Residential,Off Market,No,No,No,Individual,Owner Occupied,Occupied,5 Years 11 Months,Financed,Collin,
+38,"107 S Main St
+Farmersville, TX 75442",Blueprint 3,"4,032","19,502",1924,Single Family Residential,Off Market,No,No,No,Individual,Owner Occupied,Occupied,5 Years 11 Months,Financed,Collin,
+39,"1259 N Alma Dr
+Allen, TX 75013",Primary,"7,980","45,999",2022,Commercial (General),On Market,No,No,No,Corporate,Non-Owner Occupied,Occupied,,Financed,Collin,N/A
+39,"1259 N Alma Dr
+Allen, TX 75013",Blueprint 1,"7,980","45,999",2022,Commercial (General),On Market,No,No,No,Corporate,Non-Owner Occupied,Occupied,N/A,Financed,Collin,
+40,"1400 N Coit Rd #2403
+McKinney, TX 75071",Primary,"1,167","9,640",2022,Commercial Condominium (not offices),On Market,No,No,No,Corporate,Non-Owner Occupied,Occupied,,Financed,Collin,N/A
+40,"1400 N Coit Rd #2403
+McKinney, TX 75071",Blueprint 1,"4,763","8,513",2016,Single Family Residential,Off Market,No,No,No,Individual,Owner Occupied,Occupied,8 Years 9 Months,Financed,Collin,
+40,"1400 N Coit Rd #2403
+McKinney, TX 75071",Blueprint 2,"4,763","8,513",2016,Single Family Residential,Off Market,No,No,No,Individual,Owner Occupied,Occupied,8 Years 9 Months,Financed,Collin,
+41,"5172 Village Creek Dr #102
+Plano, TX 75093",Primary,"2,607",1,2002,Commercial Condominium (not offices),On Market,No,No,No,Individual,Non-Owner Occupied,Occupied,24 Years 11 Months,Financed,Collin,N/A
+42,"3000 14th St
+Plano, TX 75074",Primary,"1,904",1,1947,Commercial (General),On Market,No,No,No,Individual,Non-Owner Occupied,Occupied,21 Years 2 Months,Financed,Collin,N/A
+42,"3000 14th St
+Plano, TX 75074",Blueprint 1,"3,314","13,384",1999,Single Family Residential,Off Market,No,No,No,Individual,Owner Occupied,Occupied,25 Years 10 Months,Financed,Dallas,
+42,"3000 14th St
+Plano, TX 75074",Blueprint 6,"3,314","13,384",1999,Single Family Residential,Off Market,No,No,No,Individual,Owner Occupied,Occupied,25 Years 10 Months,Financed,Dallas,
+43,"870 N Preston Rd
+Celina, TX 75009",Primary,"6,528",10,1990,Commercial (General),On Market,No,No,No,Trust,Non-Owner Occupied,Occupied,,Financed,Collin,N/A
+43,"870 N Preston Rd
+Celina, TX 75009",Blueprint 1,"4,613","135,668",2001,Single Family Residential,Off Market,No,No,No,Individual,Owner Occupied,Occupied,8 Months,Financed,Collin,
+43,"870 N Preston Rd
+Celina, TX 75009",Blueprint 2,"4,613","135,668",2001,Single Family Residential,Off Market,No,No,No,Individual,Owner Occupied,Occupied,8 Months,Financed,Collin,
+44,"9555 Lebanon Rd #702
+Frisco, TX 75035",Primary,"1,150","6,074",2005,Commercial Condominium (not offices),On Market,No,No,No,Individual,Non-Owner Occupied,Occupied,18 Years 10 Months,Cash,Collin,N/A
+44,"9555 Lebanon Rd #702
+Frisco, TX 75035",Blueprint 1,"1,150","6,074",2005,Commercial Condominium (not offices),On Market,No,No,No,Individual,Non-Owner Occupied,Occupied,18 Years 10 Months,Cash,Collin,
+45,"7504 Sam Rayburn Hwy
+Anna, TX 75409",Primary,"5,500",1,1995,Commercial (General),On Market,No,No,No,Individual,Non-Owner Occupied,Occupied,,Financed,Collin,N/A
+45,"7504 Sam Rayburn Hwy
+Anna, TX 75409",Blueprint 1,"2,080","152,460",1999,Mobile home,Off Market,No,No,No,Individual,Owner Occupied,Occupied,15 Years 2 Months,Financed,Collin,
+45,"7504 Sam Rayburn Hwy
+Anna, TX 75409",Blueprint 3,"2,080","152,460",1999,Mobile home,Off Market,No,No,No,Individual,Owner Occupied,Occupied,15 Years 2 Months,Financed,Collin,
+46,"18 Decker Ct
+Wylie, TX 75098",Primary,"1,600",1,1996,Commercial (General),On Market,No,No,No,Individual,Non-Owner Occupied,Occupied,24 Years 11 Months,Financed,Collin,N/A
+47,"3675 Orr Rd
+Allen, TX 75002",Primary,"1,568",20,1996,Commercial (General),On Market,No,No,No,Individual,Non-Owner Occupied,Occupied,,Financed,Collin,N/A
+47,"3675 Orr Rd
+Allen, TX 75002",Blueprint 1,"1,344","441,786",1996,Mobile home,Off Market,No,No,No,Individual,Owner Occupied,Occupied,28 Years 7 Months,Financed,Collin,
+47,"3675 Orr Rd
+Allen, TX 75002",Blueprint 2,"1,866","647,824",1996,Agricultural / Rural,Off Market,No,No,No,Individual,Non-Owner Occupied,Occupied,8 Years 3 Months,Cash,Fannin,
+47,"3675 Orr Rd
+Allen, TX 75002",Blueprint 3,"2,002","43,560",1984,Agricultural / Rural,Off Market,No,No,No,Individual,Non-Owner Occupied,Occupied,2 Years 3 Months,Cash,Kaufman,
+47,"3675 Orr Rd
+Allen, TX 75002",Blueprint 4,"1,344","441,786",1996,Mobile home,Off Market,No,No,No,Individual,Owner Occupied,Occupied,28 Years 7 Months,Financed,Collin,
+47,"3675 Orr Rd
+Allen, TX 75002",Blueprint 5,"1,568",20,1996,Commercial (General),On Market,No,No,No,Individual,Non-Owner Occupied,Occupied,N/A,Financed,Collin,
+47,"3675 Orr Rd
+Allen, TX 75002",Blueprint 6,N/A,"45,041",N/A,Agricultural / Rural,Off Market,No,No,No,Individual,Non-Owner Occupied,Occupied,3 Years 3 Months,Cash,Hunt,
+47,"3675 Orr Rd
+Allen, TX 75002",Blueprint 7,N/A,"749,493",N/A,Farm land,Off Market,No,No,No,Individual,Non-Owner Occupied,Occupied,N/A,Financed,Kaufman,
+47,"3675 Orr Rd
+Allen, TX 75002",Blueprint 8,N/A,"33,106",N/A,Farm land,Off Market,No,No,No,Individual,Non-Owner Occupied,Occupied,N/A,Financed,Kaufman,
+48,"132 McKinney St
+Farmersville, TX 75442",Primary,"4,960",,1930,Commercial (General),On Market,No,No,No,Corporate,Non-Owner Occupied,Vacant,19 Years 1 Month,Cash,Collin,N/A
+48,"132 McKinney St
+Farmersville, TX 75442",Blueprint 1,"4,960",N/A,1930,Commercial (General),On Market,No,No,No,Corporate,Non-Owner Occupied,Vacant,19 Years 1 Month,Cash,Collin,
+49,"2315 E Audie Murphy Pkwy
+Farmersville, TX 75442",Primary,"1,552",48,2022,Commercial (General),On Market,No,No,No,Corporate,Non-Owner Occupied,Occupied,,Financed,Collin,N/A
+49,"2315 E Audie Murphy Pkwy
+Farmersville, TX 75442",Blueprint 1,N/A,"119,790",N/A,Mining,Off Market,No,No,No,Corporate,Non-Owner Occupied,Occupied,N/A,Financed,Hamilton,
+49,"2315 E Audie Murphy Pkwy
+Farmersville, TX 75442",Blueprint 2,N/A,"87,120",N/A,Mining,Off Market,No,No,No,Corporate,Non-Owner Occupied,Occupied,N/A,Financed,Hamilton,
+49,"2315 E Audie Murphy Pkwy
+Farmersville, TX 75442",Blueprint 3,N/A,"93,227",N/A,"Outdoor Recreation: Beach, Mountain, Desert",Off Market,No,No,No,Corporate,Non-Owner Occupied,Occupied,N/A,Financed,Harris,
+49,"2315 E Audie Murphy Pkwy
+Farmersville, TX 75442",Blueprint 4,N/A,"202,345",N/A,Commercial-Vacant Land,Off Market,No,No,No,Corporate,Non-Owner Occupied,Occupied,N/A,Financed,Harris,
+49,"2315 E Audie Murphy Pkwy
+Farmersville, TX 75442",Blueprint 5,N/A,"19,210",N/A,Commercial-Vacant Land,Off Market,No,No,No,Individual,Non-Owner Occupied,Occupied,N/A,Financed,Harris,
+49,"2315 E Audie Murphy Pkwy
+Farmersville, TX 75442",Blueprint 6,N/A,N/A,N/A,State Owned,Off Market,No,No,No,Corporate,Non-Owner Occupied,Occupied,N/A,Financed,Spokane,
+49,"2315 E Audie Murphy Pkwy
+Farmersville, TX 75442",Blueprint 7,N/A,N/A,N/A,State Owned,Off Market,No,No,No,Corporate,Non-Owner Occupied,Occupied,N/A,Financed,Spokane,
+49,"2315 E Audie Murphy Pkwy
+Farmersville, TX 75442",Blueprint 8,N/A,N/A,N/A,State Owned,Off Market,No,No,No,Corporate,Non-Owner Occupied,Occupied,N/A,Financed,Spokane,
+49,"2315 E Audie Murphy Pkwy
+Farmersville, TX 75442",Blueprint 9,N/A,N/A,N/A,State Owned,Off Market,No,No,No,Corporate,Non-Owner Occupied,Occupied,N/A,Financed,Spokane,
+49,"2315 E Audie Murphy Pkwy
+Farmersville, TX 75442",Blueprint 10,N/A,N/A,N/A,State Owned,Off Market,No,No,No,Corporate,Non-Owner Occupied,Occupied,N/A,Financed,Spokane,
+49,"2315 E Audie Murphy Pkwy
+Farmersville, TX 75442",Blueprint 11,N/A,N/A,N/A,State Owned,Off Market,No,No,No,Corporate,Non-Owner Occupied,Occupied,N/A,Financed,Spokane,
+49,"2315 E Audie Murphy Pkwy
+Farmersville, TX 75442",Blueprint 12,N/A,N/A,N/A,State Owned,Off Market,No,No,No,Corporate,Non-Owner Occupied,Occupied,N/A,Financed,Spokane,
+49,"2315 E Audie Murphy Pkwy
+Farmersville, TX 75442",Blueprint 13,N/A,N/A,N/A,State Owned,Off Market,No,No,No,Corporate,Non-Owner Occupied,Occupied,N/A,Financed,Spokane,
+50,"3565 FM 1461
+McKinney, TX 75071",Primary,"12,194",8,1975,Commercial (General),On Market,No,No,No,Corporate,Non-Owner Occupied,Occupied,,Financed,Collin,N/A
+50,"3565 FM 1461
+McKinney, TX 75071",Blueprint 1,"3,667","87,120",2006,Single Family Residential,Off Market,No,No,No,Individual,Owner Occupied,Occupied,18 Years 7 Months,Financed,Collin,
+50,"3565 FM 1461
+McKinney, TX 75071",Blueprint 2,"3,667","87,120",2006,Single Family Residential,Off Market,No,No,No,Individual,Owner Occupied,Occupied,18 Years 7 Months,Financed,Collin,
